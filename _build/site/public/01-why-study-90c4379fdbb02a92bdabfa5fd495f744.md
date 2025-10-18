@@ -1,0 +1,8 @@
+---
+title: "Lecture 1: Why Study the History of Christianity?"
+authors:
+    - name: Eric Araujo
+---
+
+## Introduction
+

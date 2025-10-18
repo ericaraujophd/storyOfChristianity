@@ -1,0 +1,16 @@
+# Images Selection for This Lecture
+
+
+## Images representing prayer postures
+
+```{image} images/
+:alt: Grapes on a vineyard
+:width: 500px
+:align: center
+```
+
+Historical Archive: Pastoral Sarcophagus with lid
+
+"Grand Pastoral Sarcophagus"
+from Via Prenestina, painted and gilt, late 3rd/early 4th c.
+Vatican Museums, 31485 (ex 150)
