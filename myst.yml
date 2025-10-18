@@ -17,9 +17,11 @@ project:
     - title: "Notes and Reflections"
       children:
         - file: 01-why-study.md
+        - file: 02-roman-persecution.md
     - title: "Media from Lectures"
       children:
         - file: 01-images.md
+        - file: 02-images.md
     
 site:
   template: book-theme
@@ -27,5 +29,5 @@ site:
   options:
     logo: Calvin_College.png
     logo_text: "Story of Christianity"
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+    favicon: Calvin_College.png
+
