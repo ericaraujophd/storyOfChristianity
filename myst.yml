@@ -19,10 +19,14 @@ project:
         - file: 01-why-study.md
         - file: 02-roman-persecution.md
         - file: 03-apostolic-fathers.md
+        - file: 04-martyrs.md
+        - file: 04-martyrs-maps.md
+        - file: martyrdoms_jupyter_notebook.ipynb
     - title: "Media from Lectures"
       children:
         - file: 01-images.md
         - file: 02-images.md
+        - file: 03-images.md
     
 site:
   template: book-theme

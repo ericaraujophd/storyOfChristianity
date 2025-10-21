@@ -1,0 +1,12 @@
+---
+title: "Lecture 2.3: Martyrs"
+authors:
+    - name: Eric Araujo
+date: 2025-09-15
+---
+
+It is important to rememeber the main figures of the second-century who were shaping the new church identity in the context of the Roman Empire:
+
+- The Apostolic Fathers: Clement of Rome, Ignatius of Antioch, Polycarp of Smyrna, Barnabas, Hermas.
+- The Apologists: Justin Martyr, Athenagoras of Athens, Theophilus of Antioch, Tatian, Minucius Felix, Tertullian.
+- The Martyrs: Perpetua and Felicitas, Blandina, Polycarp of Smyrna, etc.

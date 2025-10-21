@@ -1,0 +1,8 @@
+---
+title: "Lecture 4: Martyrs"
+authors:
+    - name: Eric Araujo
+date: 2025-09-10
+---
+
+The lecture started with the 
