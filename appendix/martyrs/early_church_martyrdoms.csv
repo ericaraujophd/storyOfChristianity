@@ -1,0 +1,21 @@
+Year,Deaths,Emperor,Event,Location,Latitude,Longitude,Period,Region
+34,1,Tiberius,Stephen,Jerusalem,31.778,35.234,1st Century,Eastern Mediterranean
+43,1,Claudius,James the Greater,Jerusalem,31.778,35.234,1st Century,Eastern Mediterranean
+54,1,Nero,Philip the Apostle,Hieropolis,37.745,25.736,1st Century,Eastern Mediterranean
+60,1,Nero,Matthew the Apostle,Ethiopia,9.145,40.5,1st Century,Africa & Asia
+64,100,Nero,Nero's Persecution,Rome,41.902,12.496,1st Century,Western Roman Empire
+68,1,Nero,Mark the Apostle,Alexandria,31.2,29.9,1st Century,Eastern Mediterranean
+72,3,Vespasian,"Jude, Simon, Thomas (apostles)",Jerusalem/Edessa/India,31.778,35.234,1st Century,Eastern Mediterranean
+81,100,Domitian,Domitian's Persecution,Roman Empire,37.5,15.0,1st Century,Roman Empire (General)
+95,1,Domitian,John (exile),Patmos/Ephesus,37.5,27.0,1st Century,Eastern Mediterranean
+107,1,Trajan,Ignatius of Antioch,Rome,41.902,12.496,2nd Century,Western Roman Empire
+155,1,Antoninus Pius,Polycarp,Smyrna,38.64,26.24,2nd Century,Eastern Mediterranean
+165,7,Marcus Aurelius,Justin Martyr and companions,Rome,41.902,12.496,2nd Century,Western Roman Empire
+177,48,Marcus Aurelius,Lyon Persecution,Lyon (Gaul),45.764,4.835,2nd Century,Western Roman Empire
+203,5,Septimius Severus,Perpetua & Felicity,Carthage,36.753,3.059,3rd Century,Western Roman Empire
+250,100,Decius,Decius Persecution,Roman Empire,37.5,15.0,3rd Century,Roman Empire (General)
+258,3,Valerian,Sixtus II & Lawrence,Rome/Carthage,41.902,12.496,3rd Century,Western Roman Empire
+303,1000,Diocletian,Diocletian Great Persecution,Roman Empire,37.5,15.0,4th Century,Roman Empire (General)
+313,0,Constantine,Edict of Milan (end of persecution),Roman Empire,37.5,15.0,4th Century,Roman Empire (General)
+335,100,Constantine II,Shapur II's Persecution,Persian Empire,32.5,53.7,4th Century,Persia & Armenia
+451,100,Theodosius II,Battle of Avarayr (Armenia),Armenia,40.0,45.0,5th Century,Persia & Armenia
