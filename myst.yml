@@ -20,6 +20,9 @@ project:
         - file: 02-roman-persecution.md
         - file: 03-apostolic-fathers.md
         - file: 04-martyrs.md
+        - file: 05-apologists.md
+        - file: 06-monks.md
+        - file: 07-catechumanate.md
         # - file: 04-martyrs-maps.md
         # - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
     - title: "Appendixes"

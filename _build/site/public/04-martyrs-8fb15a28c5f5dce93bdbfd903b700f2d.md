@@ -1,0 +1,191 @@
+---
+title: "Lecture 2.3: Martyrs"
+authors:
+    - name: Eric Araujo
+date: 2025-09-15
+---
+
+It is important to rememeber the main figures of the second-century who were shaping the new church identity in the context of the Roman Empire:
+
+- The Apostolic Fathers
+- The Martyrs
+- The Apologists
+- The Monks
+
+We have talked about the Apostolic Fathers in the last lecture. Now we will focus on the Martyrs.
+
+## Who were the Martyrs?
+
+The term "martyr" comes from the Greek word "μάρτυς" (mártus), which means "witness." In the context of early Christianity, martyrs were individuals who bore witness to their faith in Jesus Christ, even to the point of death. The early Christian martyrs were often persecuted by the Roman authorities for their refusal to renounce their faith and participate in the state-sanctioned religious practices, which were seen as a threat to the unity and stability of the Roman Empire.
+
+The stories of the martyrs were highly influential in shaping the identity and theology of the early Christian church. Their courage and steadfastness in the face of persecution served as powerful examples of faith and devotion, inspiring other Christians to remain faithful even in difficult circumstances. The martyrdom of early Christians was often seen as a form of participation in the suffering and death of Christ, and it was believed that those who died for their faith would receive special rewards in the afterlife.
+
+## What was the Gospel for the Martyrs?
+
+A great deal of Scriptural texts were used by the early Christians to encourage and strengthen the faith of the martyrs. Some of the key passages that were particularly meaningful to them include:
+
+- **Mark 8:34-35**: "Then he called the crowd to him along with his disciples and said: 'Whoever wants to be my disciple must deny themselves and take up their cross and follow me. For whoever wants to save their life will lose it, but whoever loses their life for me and for the gospel will save it.'"
+- **Matthew 5:10-12**: "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven. Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me. Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you."
+- **Philippians 1:21**: "For to me, to live is Christ and to die is gain."
+- **2 Corinthians 12:10**: "That is why, for Christ’s sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
+- **2 Timothy 4:6-8**: "For I am already being poured out like a drink offering, and the time for my departure is near. I have fought the good fight, I have finished the race, I have kept the faith. Now there is in store for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day—and not only to me, but also to all who have longed for his appearing."
+- **Revelation 14:13**: "Then I heard a voice from heaven say, 'Write this: Blessed are the dead who die in the Lord from now on.' 'Yes,' says the Spirit, 'they will rest from their labor, for their deeds will follow them.'"
+- **Romans 8:35-39**: "Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword? As it is written: 'For your sake we face death all day long; we are considered as sheep to be slaughtered.' No, in all these things we are more than conquerors through him who loved us. For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
+- **Revelation 2:10**: "Do not be afraid of what you are about to suffer. I tell you, the devil will put some of you in prison to test you, and you will suffer persecution for ten days. Be faithful, even to the point of death, and I will give you life as your victor's crown."
+
+It is important to remember that Stephen's martyrdom and Jesus' crucifixion set models for the early Christian martyrs. Stephen, as the first Christian martyr, exemplified forgiveness and faithfulness even in the face of death (Acts 7:54-60). Jesus' own suffering and death on the cross served as the ultimate example of sacrificial love and obedience to God's will (Philippians 2:5-11). These examples provided a theological framework for understanding martyrdom as a participation in Christ's own suffering and a witness to the truth of the gospel.
+
+The martyrs of the early church would see themselves as [Paroikoi](#paroikoi) (resident aliens), a very important concept for the martyrs, as they saw themselves as pilgrims in this world, not fully at home, and looking forward to their true home in heaven.
+
+Later, when Christianity become legal in the Roman Empire, the pilgrim principle will be co-existing with the indigenizing principle, which will create tensions in the church.
+
+The paradox of the Christian life is a very good place to reflect upon the experience of the martyrs. Christians are called to live in the world but not be of the world (John 17:14-16). They are to be in the world as witnesses to the truth of the gospel, but they are also called to embody an alternative way of life that reflects the values of the kingdom of God. 
+
+The concept of dual citizenship captures this paradox, as Christians are citizens of both the earthly kingdom and the heavenly kingdom. This dual citizenship creates a tension between the demands of the world and the demands of faith, which the martyrs experienced in a profound way.
+
+Diognetus Epistle provides a beautiful description of the Christian identity as resident aliens:
+
+> "They live in their respective countries, but only as resident aliens [paroikoi](#paroikoi); they participate in all things as citizens, and they endure all things as foreigners [...] They marry like everyone else and have children, but they do not expose them once they are born. They share their meals but not their sexual partners [...] To put the matter simply, what the soul is in the body, this is what Christians are in the world."
+> 
+> [Epistle to Diognetus](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xv.html?queryID=55934560&resultID=211765) (2c)
+
+:::{admonition} On Diognetus Epistle
+"They love all men, and they are persecuted by all."
+:::
+
+## What persecutions did the Martyrs face?
+
+First, it is important to understand that the persecutions faced by the early Christian martyrs were not constant or uniform throughout the Roman Empire. There were periods of relative peace and tolerance, as well as times of intense persecution. The severity and frequency of persecutions varied depending on the local political and social context, as well as the attitudes of individual emperors and governors.
+
+### Jews against Christians
+
+It is notable that the first persecutors of Christians were not the Roman authorities, but rather the Jewish religious leaders. The stoning of Stephen (Acts 7:54-60) and the persecution led by Saul (later Paul) (Acts 8:1-3) are examples of early persecutions initiated by Jewish authorities.
+
+Justo Gonzalez [@gonzalez2010story] explains well that, at first, Jews had some privileges in the Roman Empire to practice their religion freely. As Christianity emerged from Judaism, there was this misunderstanding that Christians were just a sect of Judaism.
+
+However, as Christianity began to emerge as a distinct movement from Judaism, tensions arose between the two groups. Christians were often viewed with suspicion and hostility by Jewish authorities, who saw them as a threat to their religious and social order.
+
+### Nero against Christians
+
+There was certainly an increase in persecutions during the reign of Emperor Nero (54-68 AD), particularly after the Great Fire of Rome in 64 AD, which Nero blamed on the Christians. This led to widespread persecution and martyrdom of Christians in Rome. [@gonzalez2010story] will again help us understand that Christians were easy targets for Nero, as they were a marginalized and misunderstood group in Roman society. They were often accused of atheism (due to their refusal to worship the Roman gods) and of engaging in secret and subversive activities. This made them vulnerable to persecution, especially during times of crisis or unrest.
+
+:::{admonition} On Nero's Persecution
+:class: important
+Interestingly, there are no records of empire-wide persecutions of Christians until the reign of Emperor Decius (249-251 AD). Decius issued an edict in 250 AD that required all citizens of the empire to perform a sacrifice to the Roman gods and the emperor, which Christians refused to do. This led to a widespread persecution of Christians throughout the empire, with many being arrested, tortured, and executed for their faith.
+:::
+
+### Domitian against Christians
+
+After Nero, Domitian (81-96 AD) also persecuted Christians, particularly in Asia Minor. Little is known about the specifics of Domitian's persecution, but it is believed that he targeted Christians who refused to participate in the imperial cult and other Roman religious practices. He was considered a tyrant by many, and his reign was marked by political repression and persecution of various groups, including Christians. 
+
+:::{admonition} On Domitian's Persecution
+:class: important
+The book of Revelation is believed to have been written during Domitian's reign, and it contains references to the persecution of Christians in Asia Minor.
+:::
+
+As it is known, the persecution caused a reverse effect, strengthening the faith of many Christians and leading to the growth of the church. The courage and steadfastness of the martyrs inspired others to remain faithful in the face of persecution, and their witness served as a powerful testimony to the truth of the gospel.
+
+Tertullian (c. 155 – c. 240 AD), an early Christian apologist and theologian, wrote extensively about the persecutions faced by Christians in the Roman Empire. In his writings, Tertullian defended the Christian faith against accusations of atheism and immorality, and he also provided a detailed account of the various forms of persecution that Christians endured.
+
+One of his many quotes on the subject are registered in his work "Apology":
+
+> "We become more numerous every time we are hewn down by you: the blood of Christians is seed. [...]
+>
+> If the River Tiber reaches the walls, if the River Nile does not rise to the fields, if the sky does not move or the earth does, if there is famine, if there is plague, the cry is at once:  ‘The Christians to the lion!’  What, all of them to one lion? [@woodham1850apology]"
+
+### Trajan against Christians
+
+Emperor Trajan (98-117 AD) is known for his correspondence with Pliny the Younger, the governor of Bithynia-Pontus (in modern-day Turkey), regarding the treatment of Christians in the province. In a letter dated around 112 AD, Pliny sought guidance from Trajan on how to deal with Christians who were being brought before him for trial. Trajan's response, known as the "Rescript of Trajan," provided important instructions on the treatment of Christians.
+
+In his rescript, Trajan advised Pliny not to actively seek out Christians for persecution, but to punish them if they were brought before him and found guilty of being Christians. He instructed Pliny to give Christians the opportunity to renounce their faith and offer sacrifices to the Roman gods, which would demonstrate their loyalty to the empire. If they refused to do so, they were to be punished, but Trajan emphasized that Christians should not be persecuted solely for their religious beliefs.
+
+> "Any one who denies being a Christian and actively proves it by adoring our gods must be forgiven on the basis of his repentance, no matter how suspect his past."
+
+:::{admonition} 📜 Letter from Pliny to Trajan and Trajan's Reply
+:icon: false
+:class: dropdown
+:open: false
+
+The source of this text is from [Georgetown University](https://faculty.georgetown.edu/jod/texts/pliny.html).
+
+**Pliny, Letters 10.96-97**
+
+**Pliny to the Emperor Trajan**
+
+It is my practice, my lord, to refer to you all matters concerning which I am in doubt. For who can better give guidance to my hesitation or inform my ignorance? I have never participated in trials of Christians. I therefore do not know what offenses it is the practice to punish or investigate, and to what extent. And I have been not a little hesitant as to whether there should be any distinction on account of age or no difference between the very young and the more mature; whether pardon is to be granted for repentance, or, if a man has once been a Christian, it does him no good to have ceased to be one; whether the name itself, even without offenses, or only the offenses associated with the name are to be punished.
+
+Meanwhile, in the case of those who were denounced to me as Christians, I have observed the following procedure: I interrogated these as to whether they were Christians; those who confessed I interrogated a second and a third time, threatening them with punishment; those who persisted I ordered executed. For I had no doubt that, whatever the nature of their creed, stubbornness and inflexible obstinacy surely deserve to be punished. There were others possessed of the same folly; but because they were Roman citizens, I signed an order for them to be transferred to Rome.
+
+Soon accusations spread, as usually happens, because of the proceedings going on, and several incidents occurred. An anonymous document was published containing the names of many persons. Those who denied that they were or had been Christians, when they invoked the gods in words dictated by me, offered prayer with incense and wine to your image, which I had ordered to be brought for this purpose together with statues of the gods, and moreover cursed Christ--none of which those who are really Christians, it is said, can be forced to do--these I thought should be discharged. Others named by the informer declared that they were Christians, but then denied it, asserting that they had been but had ceased to be, some three years before, others many years, some as much as twenty-five years. They all worshipped your image and the statues of the gods, and cursed Christ.
+
+They asserted, however, that the sum and substance of their fault or error had been that they were accustomed to meet on a fixed day before dawn and sing responsively a hymn to Christ as to a god, and to bind themselves by oath, not to some crime, but not to commit fraud, theft, or adultery, not falsify their trust, nor to refuse to return a trust when called upon to do so. When this was over, it was their custom to depart and to assemble again to partake of food--but ordinary and innocent food. Even this, they affirmed, they had ceased to do after my edict by which, in accordance with your instructions, I had forbidden political associations. Accordingly, I judged it all the more necessary to find out what the truth was by torturing two female slaves who were called deaconesses. But I discovered nothing else but depraved, excessive superstition.
+
+I therefore postponed the investigation and hastened to consult you. For the matter seemed to me to warrant consulting you, especially because of the number involved. For many persons of every age, every rank, and also of both sexes are and will be endangered. For the contagion of this superstition has spread not only to the cities but also to the villages and farms. But it seems possible to check and cure it. It is certainly quite clear that the temples, which had been almost deserted, have begun to be frequented, that the established religious rites, long neglected, are being resumed, and that from everywhere sacrificial animals are coming, for which until now very few purchasers could be found. Hence it is easy to imagine what a multitude of people can be reformed if an opportunity for repentance is afforded.
+
+**Trajan to Pliny**
+
+You observed proper procedure, my dear Pliny, in sifting the cases of those who had been denounced to you as Christians. For it is not possible to lay down any general rule to serve as a kind of fixed standard. They are not to be sought out; if they are denounced and proved guilty, they are to be punished, with this reservation, that whoever denies that he is a Christian and really proves it--that is, by worshiping our gods--even though he was under suspicion in the past, shall obtain pardon through repentance. But anonymously posted accusations ought to have no place in any prosecution. For this is both a dangerous kind of precedent and out of keeping with the spirit of our age.
+:::
+
+### Decius against Christians
+
+Emperor Decius (249-251 AD) is known for initiating the first empire-wide persecution of Christians. In 250 AD, Decius issued an edict that required all citizens of the Roman Empire to perform a sacrifice to the Roman gods and the emperor, which Christians refused to do. This led to a widespread persecution of Christians throughout the empire, with many being arrested, tortured, and executed for their faith.
+
+Origen (c. 184 – c. 253 AD), an early Christian theologian and scholar, wrote extensively about the persecutions faced by Christians during the reign of Decius. In his writings, Origen defended the Christian faith against accusations of atheism and immorality, and he also provided a detailed account of the various forms of persecution that Christians endured. (#origen)
+
+### Diocletian against Christians
+
+Emperor Diocletian (284-305 AD) is known for initiating the most severe and systematic persecution of Christians in the history of the Roman Empire. In 303 AD, Diocletian issued a series of edicts that ordered the destruction of Christian churches, the burning of Christian scriptures, and the arrest and imprisonment of Christian leaders. Christians were also required to perform sacrifices to the Roman gods, and those who refused were subjected to torture and execution.
+
+The Diocletianic Persecution, also known as the Great Persecution, lasted until 311 AD and resulted in the martyrdom of many Christians. However, despite the severity of the persecution, Christianity continued to grow and spread throughout the empire, and many Christians remained steadfast in their faith.
+
+## Reasons for Persecution
+
+Among the list of reasons
+
+
+## Martyrs Stats from the Early Church
+
+The table below show a (non-exhaustive) list of notable Christian martyrs from the early church period, along with the approximate dates of their martyrdom, the Roman emperors during whose reigns they were martyred, and the estimated number of martyrs where applicable.
+
+| Date | Emperor | Event/Location | Names of Notable Martyrs | Estimated Number |
+|------|---|---|---|---|
+| ~34 AD | Tiberius | Jerusalem | Stephen | 1 |
+| ~43-45 AD | Claudius | Jerusalem | James the Greater (apostle) | 1 |
+| ~54 AD | Nero | Hieropolis (Turkey) | Philip the Apostle | 1 |
+| ~60 AD | Nero | Ethiopia | Matthew the Apostle | 1 |
+| 64-68 AD | Nero | Rome | Nero's Persecution: Peter, Paul (apostles), and numerous Christians | 100s |
+| ~68 AD | Nero | Alexandria | Mark the Apostle | 1 |
+| ~72 AD | Vespasian | Jerusalem/Edessa | Jude (Thaddeus) and Simon the Zealot (apostles) | 2 |
+| ~72 AD | Vespasian | India | Thomas the Apostle | 1 |
+| 81-96 AD | Domitian | Roman Empire | Domitian's Persecution: various Christians throughout empire | 100s+ |
+| ~95 AD | Domitian | Patmos/Ephesus | John the Apostle (exile; traditionally) | 1 |
+| ~107-110 AD | Trajan | Rome | Ignatius of Antioch | 1 |
+| ~155 AD | Antoninus Pius | Smyrna | Polycarp | 1 |
+| ~165 AD | Marcus Aurelius | Rome | Justin Martyr and 6 companions | 7 |
+| 177 AD | Marcus Aurelius | Lyon (Gaul) | Blandina, Pothinus, and others | 48+ |
+| ~203 AD | Septimius Severus | Carthage (North Africa) | Perpetua, Felicity, and 3 companions | 5 |
+| ~250 AD | Decius | Roman Empire | Various martyrs under Decius persecution | 100s |
+| ~258 AD | Valerian | Rome/Carthage | Sixtus II, Lawrence, Cyprian | 3 |
+| 303-311 AD | Diocletian | Roman Empire | Great Persecution under Diocletian (various locations) | 1000s |
+| ~303 AD | Diocletian | Nicomedia | George (traditional) | 1 |
+| ~304 AD | Diocletian | Alexandria | Catherine (traditional) | 1 |
+| ~306 AD | Diocletian | Egypt | Sebastian (traditional) | 1 |
+| 313 AD | Constantine | Roman Empire | Edict of Milan—persecution officially ends | 0 |
+| ~335 AD | Constantine II | Persian Empire | Shapur II's Persecution: various Christians | 100s |
+| ~380 AD | Theodosius I | Roman Empire | Christianity becomes official religion | 0 |
+| 451 AD | Theodosius II | Armenia | Vardan Mamikonian and Armenian Christians (Battle of Avarayr) | 100s+ |
+
+**Notes:**
+
+- Dates marked with ~ are approximate, as exact dates are often uncertain
+- Names in parentheses marked "traditional" indicate figures whose historicity is debated by scholars
+- Numbers for mass persecutions are estimates based on historical records and church tradition
+- By the 5th century, persecution had largely ended in the Roman Empire following Constantine's legalization of Christianity
+- The Battle of Avarayr (451 AD) is one of the last recorded large-scale Christian persecutions in antiquity
+- This table includes only major or well-documented martyrdoms; many others are recorded in various sources
+
+::::{admonition} 📊 Data Analysis of Martyrs
+For some data analysis of these numbers, you can check [this Jupyter Notebook](appendix/martyrs/martyrdoms_jupyter_notebook.ipynb) in the appendix section of this course repository.
+::::
+
