@@ -22,9 +22,13 @@ project:
         - file: 04-martyrs.md
         - file: 05-apologists.md
         - file: 06-monks.md
-        - file: 07-catechumanate.md
+        - file: 07-catechumenate.md
         # - file: 04-martyrs-maps.md
         # - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
+    - title: Gnosticism
+      children:
+        - file: gnosticism/introduction.md
+        - file: gnosticism/valentinianism.md
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
