@@ -29,6 +29,9 @@ project:
       children:
         - file: gnosticism/introduction.md
         - file: gnosticism/valentinianism.md
+        - file: gnosticism/docetism.md
+        - file: gnosticism/marcionism.md
+        - file: gnosticism/application.md
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
