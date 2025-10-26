@@ -25,12 +25,18 @@ project:
         - file: 07-catechumenate.md
         # - file: 04-martyrs-maps.md
         # - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
+    - title: Introduction
+      children:
+        - file: introduction/why_study.md
+        - file: introduction/alien-tropological.md
+    
     - title: Gnosticism
       children:
         - file: gnosticism/introduction.md
         - file: gnosticism/valentinianism.md
         - file: gnosticism/docetism.md
         - file: gnosticism/marcionism.md
+        - file: gnosticism/response.md
         - file: gnosticism/application.md
     - title: "Appendixes"
       children:
