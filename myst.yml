@@ -14,27 +14,31 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: index.md
-    - title: "Notes and Reflections"
-      children:
-        - file: 03-apostolic-fathers.md
-        - file: 04-martyrs.md
-        - file: 05-apologists.md
-        - file: 06-monks.md
-        - file: 07-catechumenate.md
-        # - file: 04-martyrs-maps.md
-        # - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
     - title: Introduction
       children:
         - file: introduction/why_study.md
         - file: introduction/alien-tropological.md
         - file: introduction/how-study.md
-    - title: Initial Challenges of the Church
+    - title: Initial Challenges
       children:
         - file: challenges/context.md
         - file: challenges/first-council.md
         - file: challenges/roman-empire.md
         - file: challenges/mission.md
-    
+    - title: Apostolic Fathers
+      children:
+        - file: apostolic-fathers/overview.md
+        - file: apostolic-fathers/didache.md
+        - file: apostolic-fathers/barnabas.md
+        - file: apostolic-fathers/hermas.md
+        - file: apostolic-fathers/clement.md
+        - file: apostolic-fathers/ignatius.md
+    # - title: Martyrs
+    # - title: Apologists
+    # - title: Monks
+    # - title: Cathecumenate
+    # - title: Baptism
+
     - title: Gnosticism
       children:
         - file: gnosticism/introduction.md
@@ -51,6 +55,12 @@ project:
         - file: 01-images.md
         - file: 02-images.md
         - file: 03-images.md
+    - title: "Notes and Reflections"
+      children:
+        - file: 04-martyrs.md
+        - file: 05-apologists.md
+        - file: 06-monks.md
+        - file: 07-catechumenate.md
     
 site:
   template: book-theme

@@ -1,4 +1,3 @@
-
 ---
 title: "Prayers from Early Christianity"
 authors:
