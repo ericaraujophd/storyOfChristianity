@@ -16,8 +16,6 @@ project:
     - file: index.md
     - title: "Notes and Reflections"
       children:
-        - file: 01-why-study.md
-        - file: 02-roman-persecution.md
         - file: 03-apostolic-fathers.md
         - file: 04-martyrs.md
         - file: 05-apologists.md
@@ -29,6 +27,13 @@ project:
       children:
         - file: introduction/why_study.md
         - file: introduction/alien-tropological.md
+        - file: introduction/how-study.md
+    - title: Initial Challenges of the Church
+      children:
+        - file: challenges/context.md
+        - file: challenges/first-council.md
+        - file: challenges/roman-empire.md
+        - file: challenges/mission.md
     
     - title: Gnosticism
       children:
