@@ -5,9 +5,10 @@ authors:
 date: 2025-09-08
 ---
 
-:::{figure} figures/Roman_Empire_Trajan_117AD.png
+:::{figure} images/lecture02/Roman_Empire_Trajan_117AD.png
 The Roman Empire in 117 AD at its greatest extent, at the time of Trajan's death (with its vassals in pink) [Source](https://commons.wikimedia.org/wiki/File:Roman_Empire_Trajan_117AD.png)
 :::
+
 
 ## Introduction
 

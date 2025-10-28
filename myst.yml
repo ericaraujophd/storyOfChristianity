@@ -52,8 +52,6 @@ project:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
     - title: "Media from Lectures"
       children:
-        - file: 01-images.md
-        - file: 02-images.md
         - file: 03-images.md
     - title: "Notes and Reflections"
       children:
