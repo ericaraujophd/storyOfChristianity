@@ -38,7 +38,6 @@ project:
     # - title: Monks
     # - title: Cathecumenate
     # - title: Baptism
-
     - title: Gnosticism
       children:
         - file: gnosticism/introduction.md
@@ -50,9 +49,6 @@ project:
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
-    - title: "Media from Lectures"
-      children:
-        - file: 03-images.md
     - title: "Notes and Reflections"
       children:
         - file: 04-martyrs.md
