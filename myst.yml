@@ -33,7 +33,10 @@ project:
         - file: apostolic-fathers/hermas.md
         - file: apostolic-fathers/clement.md
         - file: apostolic-fathers/ignatius.md
-    # - title: Martyrs
+    - title: Martyrs
+      children:
+        - file: martyrs/introduction.md
+        - file: martyrs/persecutions.md
     # - title: Apologists
     # - title: Monks
     # - title: Cathecumenate
@@ -51,7 +54,7 @@ project:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
     - title: "Notes and Reflections"
       children:
-        - file: 04-martyrs.md
+        # - file: 04-martyrs.md
         - file: 05-apologists.md
         - file: 06-monks.md
         - file: 07-catechumenate.md
