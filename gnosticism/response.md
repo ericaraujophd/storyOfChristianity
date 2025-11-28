@@ -1,7 +1,5 @@
 ---
 title: "The Response: Canon, Creed, and Apostolic Succession"
-authors:
-    - name: Eric Araujo
 # date: 2025-09-10
 ---
 
@@ -30,6 +28,6 @@ During baptism, in order to differ the Orthodox creed from the Gnostic or Marcio
 
 Apostolic succession is the belief that the authority and teachings of the apostles have been passed down through an unbroken line of bishops. This concept was crucial for maintaining the integrity of Christian doctrine and practice. The early church emphasized the importance of apostolic succession to ensure that the teachings of Jesus and the apostles were preserved and transmitted faithfully to future generations.
 
-:::{figure} /figures/sinax.jpg
+:::{figure} figures/sinax.jpg
 Synaxis of the Twelve Apostles by Constantinople master (early 14th c., Pushkin museum)
 :::
