@@ -6,6 +6,7 @@ date: 2025-09-15
 
 The documents from the first century and first half of the second century are more focused on dealing with internal church matters and the teachings of Jesus and the apostles. However, starting in the mid-second century, we see the emergence of a distinct genre of Christian literature known as "apologies" or "apologetics."
 
+(apologists)=
 Apologists were Christian writers who sought to defend and explain the Christian faith to both non-Christians and Christians alike. Their writings often addressed criticisms and misconceptions about Christianity, as well as providing a rational basis for belief in Jesus Christ and the Christian message.
 
 This lecture focused on the Desert Fathers and their approach to Christian mission. The Desert Fathers were early Christian hermits, ascetics, and monks who lived often in the deserts.

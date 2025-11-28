@@ -65,6 +65,9 @@ project:
         - file: gospel/creeds.md
         - file: gospel/canon.md
         - file: gospel/origen.md
+        - file: gospel/montanism.md
+        - file: gospel/leadership.md
+        - file: gospel/leaders.md
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb

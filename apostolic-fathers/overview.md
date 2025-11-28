@@ -13,6 +13,7 @@ The lecture started with the Hymn 314 from Genevan Psalter[^1].
 
 ## Introduction
 
+(apostolic-fathers)=
 Very little is known about the period between the New Testament writings and the early second century. However, we do have some writings from early Christian leaders known as the Apostolic Fathers. These writings provide valuable insights into the beliefs, practices, and challenges faced by the early Christian community during this formative period.
 
 Some of the main sources from the Apostolic Fathers include:
