@@ -37,8 +37,16 @@ project:
       children:
         - file: martyrs/introduction.md
         - file: martyrs/persecutions.md
-    # - title: Apologists
-    # - title: Monks
+        - file: martyrs/reasons.md
+        - file: martyrs/important.md
+        - file: martyrs/stats.md
+    - title: Apologists
+      children:
+        - file: apologists/introduction.md
+    - title: Monks
+      children:
+        - file: monasticism/monks.md
+
     # - title: Cathecumenate
     # - title: Baptism
     - title: Gnosticism

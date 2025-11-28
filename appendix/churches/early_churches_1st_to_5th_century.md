@@ -114,7 +114,7 @@ Exact founding dates for many 1st-century churches are uncertain; Acts and Epist
 
 ---
 
-## Key Observations for Teaching
+## Key Observations
 
 1. **Geographic Spread:** Christianity spread rapidly from Jerusalem through the Mediterranean basin, following trade routes and Roman roads.
 

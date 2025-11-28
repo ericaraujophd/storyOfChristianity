@@ -1,14 +1,7 @@
 ---
-title: "Lecture 2.3: Martyrs"
-authors:
-    - name: Eric Araujo
+title: Martyrs Stats from the Early Church
 date: 2025-09-15
 ---
-
-
-
-
-## Martyrs Stats from the Early Church
 
 The table below show a (non-exhaustive) list of notable Christian martyrs from the early church period, along with the approximate dates of their martyrdom, the Roman emperors during whose reigns they were martyred, and the estimated number of martyrs where applicable.
 
@@ -50,6 +43,5 @@ The table below show a (non-exhaustive) list of notable Christian martyrs from t
 - This table includes only major or well-documented martyrdoms; many others are recorded in various sources
 
 ::::{admonition} 📊 Data Analysis of Martyrs
-For some data analysis of these numbers, you can check [this Jupyter Notebook](appendix/martyrs/martyrdoms_jupyter_notebook.ipynb) in the appendix section of this course repository.
+For some data analysis of these numbers, you can check [this Jupyter Notebook](../appendix/martyrs/martyrdoms_jupyter_notebook.ipynb) in the appendix section of this course repository.
 ::::
-

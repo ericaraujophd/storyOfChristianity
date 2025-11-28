@@ -24,6 +24,6 @@ I'm working on a more detailed analysis of the growth of Christianity during the
 The initial material can be seen [here](../appendix/churches/early_churches_1st_to_5th_century.html)
 :::
 
-:::{figure} images/lecture03/growth_early_church.png
+:::{figure} figures/growth_early_church.png
 Growth of the Early Church from 1st to 3rd Century (source: [BILD International](https://partner.bild.org/philosophy/growth-of-the-early-church))
 :::
