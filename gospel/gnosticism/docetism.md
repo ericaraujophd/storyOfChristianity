@@ -12,6 +12,6 @@ Docetism posed a significant challenge to orthodox Christian beliefs, particular
 
 It is important to note that docetism is best understood as a collection of widespread tendencies rather than a movement originating from one person.
 
-:::{figure} figures/Codex_Tchacos_p33.jpg
+:::{figure} ../figures/Codex_Tchacos_p33.jpg
 The Gospel of Peter, a Gnostic text discovered in the Nag Hammadi library, contains docetic elements that reflect the belief that Jesus' physical form was an illusion. [Source](https://en.wikipedia.org/wiki/Gospel_of_Peter)
 :::

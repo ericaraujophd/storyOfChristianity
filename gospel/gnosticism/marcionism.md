@@ -10,7 +10,7 @@ Marcion's teachings were characterized by a strong dualism, which posited a dist
 
 Marcionism posed a significant challenge to the early church, as it forced Christian leaders to clarify their understanding of the relationship between the Old and New Testaments and to defend the unity of God's revelation in Scripture. The movement ultimately led to the development of the orthodox Christian canon and the affirmation of the Old Testament as an integral part of the Christian faith.
 
-:::{figure} figures/Apostle_John_and_Marcion_of_Sinope,_from_JPM_LIbrary_MS_748,_11th_c.jpg
+:::{figure} ../figures/Apostle_John_and_Marcion_of_Sinope,_from_JPM_LIbrary_MS_748,_11th_c.jpg
 Apostle John and Marcion of Sinope, from JPM Library MS 748, 11th century. [Source](https://en.wikipedia.org/wiki/Marcionism#)
 :::
 

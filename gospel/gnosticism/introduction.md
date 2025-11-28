@@ -33,7 +33,7 @@ If any one of these is missing or misunderstood, our understanding of the Gospel
 
 Gnosticism was a diverse and complex religious movement that emerged in the early centuries of Christianity. It was characterized by its emphasis on secret knowledge (gnosis) as the key to salvation and its dualistic worldview, which posited a stark contrast between the spiritual and material realms.
 
-:::{figure} figures/gnosticism-cover.png
+:::{figure} ../figures/gnosticism-cover.png
 A traveller peers through an opening in the firmament in this illustration from Camille Flammarion's L'atmosphère : météorologie populaire (Paris: Hachette, 1888), p. 163
 :::
 

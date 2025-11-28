@@ -1,14 +1,8 @@
 ---
-title: "Lecture 2.6: The Catechumenate"
+title: "The Catechumenate"
 subtitle: "Making Disciples in the Early Church"
-authors:
-    - name: Eric Araujo
 date: 2025-09-22
 ---
-
-The beginning of this lecture focused on the discussion of the readings on Difficult Love and the monastic life. Some discussion about the concept of purgatory was also brought up.
-
-## Introduction
 
 The catechumenate was an essential part of the early Christian community, serving as a period of instruction and preparation for new converts before their baptism. This process was not only about imparting knowledge but also about fostering spiritual growth and integration into the Christian way of life.
 

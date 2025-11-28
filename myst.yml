@@ -25,47 +25,49 @@ project:
         - file: challenges/first-council.md
         - file: challenges/roman-empire.md
         - file: challenges/mission.md
-    - title: Apostolic Fathers
+        - title: Apostolic Fathers
+          children:
+            - file: apostolic-fathers/overview.md
+            - file: apostolic-fathers/didache.md
+            - file: apostolic-fathers/barnabas.md
+            - file: apostolic-fathers/hermas.md
+            - file: apostolic-fathers/clement.md
+            - file: apostolic-fathers/ignatius.md
+        - title: Martyrs
+          children:
+            - file: martyrs/introduction.md
+            - file: martyrs/persecutions.md
+            - file: martyrs/reasons.md
+            - file: martyrs/important.md
+            - file: martyrs/stats.md
+        - title: Apologists
+          children:
+            - file: apologists/introduction.md
+        - title: Monks
+          children:
+            - file: monasticism/monks.md
+    - title: Making Disciples
       children:
-        - file: apostolic-fathers/overview.md
-        - file: apostolic-fathers/didache.md
-        - file: apostolic-fathers/barnabas.md
-        - file: apostolic-fathers/hermas.md
-        - file: apostolic-fathers/clement.md
-        - file: apostolic-fathers/ignatius.md
-    - title: Martyrs
+        - file: discipleship/catechumenate.md
+        - file: discipleship/baptism.md
+    - title: What is the Gospel?
       children:
-        - file: martyrs/introduction.md
-        - file: martyrs/persecutions.md
-        - file: martyrs/reasons.md
-        - file: martyrs/important.md
-        - file: martyrs/stats.md
-    - title: Apologists
-      children:
-        - file: apologists/introduction.md
-    - title: Monks
-      children:
-        - file: monasticism/monks.md
-
-    # - title: Cathecumenate
-    # - title: Baptism
-    - title: Gnosticism
-      children:
-        - file: gnosticism/introduction.md
-        - file: gnosticism/valentinianism.md
-        - file: gnosticism/docetism.md
-        - file: gnosticism/marcionism.md
-        - file: gnosticism/response.md
-        - file: gnosticism/application.md
+        - file: gospel/introduction.md
+        - title: Gnosticism
+          children:
+            - file: gospel/gnosticism/introduction.md
+            - file: gospel/gnosticism/valentinianism.md
+            - file: gospel/gnosticism/docetism.md
+            - file: gospel/gnosticism/marcionism.md
+            - file: gospel/gnosticism/application.md
+        - file: gospel/response.md
+        - file: gospel/irenaeus.md
+        - file: gospel/creeds.md
+        - file: gospel/canon.md
+        - file: gospel/origen.md
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
-    - title: "Notes and Reflections"
-      children:
-        # - file: 04-martyrs.md
-        - file: 05-apologists.md
-        - file: 06-monks.md
-        - file: 07-catechumenate.md
     
 site:
   template: book-theme

@@ -3,7 +3,9 @@ title: "The Response: Canon, Creed, and Apostolic Succession"
 # date: 2025-09-10
 ---
 
-The Marcion attempt to put together a canon of Christian Scripture forced the early church to respond. Still, the canon took several centuries to be formalized. The early church also needed to respond to the Gnostic challenge by formulating creeds that articulated the essential beliefs of Christianity. Finally, the church had to ensure the continuity of apostolic teaching through a system of apostolic succession.
+The [Marcion](#marcionism) attempt to put together a canon of Christian Scripture forced the early church to respond. Still, the canon took several centuries to be formalized. The early church also needed to respond to the Gnostic challenge by formulating creeds that articulated the essential beliefs of Christianity. Finally, the church had to ensure the continuity of apostolic teaching through a system of apostolic succession.
+
+The following responses helped the early church to clarify and defend the true Gospel message against Gnostic distortions.
 
 ## The Canon
 

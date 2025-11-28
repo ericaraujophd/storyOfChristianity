@@ -10,7 +10,7 @@ Valentinians believed that human beings contained a divine spark or seed that or
 
 Valentinianism also had a distinctive view of the church and sacraments. Valentinians often practiced a form of initiation that involved baptism and a special rite known as the "bridal chamber," which symbolized the union of the soul with its divine origin.
 
-:::{figure} figures/Flavia_Sophe_inscription.jpg
+:::{figure} ../figures/Flavia_Sophe_inscription.jpg
 Valentinian inscription from the grave stele of Flavia Sophe, referencing the bridal chamber. [Source](https://en.wikipedia.org/wiki/Valentinianism)
 :::
 
@@ -22,7 +22,7 @@ Central to [Valentinian](#valentinianism) cosmology is the concept of the *Plero
 (sophia)=
 The fall of Sophia, one of the Aeons, led to the creation of the material world and the Demiurge, who is responsible for the flawed physical universe. The divine spark within humans is seen as a fragment of the Pleroma that has become trapped in the material world, and salvation involves returning this spark to its original divine source through gnosis.
 
-:::{figure} figures/SophiaMystical.png
+:::{figure} ../figures/SophiaMystical.png
 This image is an illustration of the Gnostic figure Sophia, and it is a plate from the book Geheime Figuren der Rosenkreuzer (Secret Figures of the Rosicrucians) published in Altona, Germany, in 1785. [Source: Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/SophiaMystical.jpg/330px-SophiaMystical.jpg)
 :::
 

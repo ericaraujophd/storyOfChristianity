@@ -1,14 +1,13 @@
 ---
-title: "Lecture 2.7: The Baptism"
+title: "The Baptism"
 subtitle: "Forming Disciples Through Baptism"
-authors:
-    - name: Eric Araujo
 date: 2025-09-22
 ---
 
+:::{admonition}
+:class: note
 Professor Rylaarsdam mentioned the concept of Biblical worship as the Bible being brought alive to all five senses. Baptism is a great example of that, as it involves physical actions (immersion in water), auditory elements (words spoken during the baptism), and visual components (the symbolism of cleansing and new life).
-
-## Introduction
+:::
 
 The catechumenate process culminated in baptism, which was not only a rite of initiation but also a profound act of discipleship. Baptism symbolized the believer's identification with the death, burial, and resurrection of Jesus Christ (Romans 6:3-4). It marked the beginning of a new life in Christ and a commitment to follow Him.
 
@@ -29,9 +28,13 @@ The house at Duras-Europos was built shortly after 200 A.D. and adapted to be us
 Baptismal fonts are usually located at the entrance of the church building, symbolizing the entry into the Christian life and reminding the congregation of their own baptism as they enter the worship space.
 :::
 
-![Baptismal Font at Duras-Europos Floor Plan](images/duras-europos-floor-plan.jpg)
+:::{figure} figures/duras-europos-floor-plan.jpg
+Baptismal Font at Duras-Europos Floor Plan ([Source](https://thecatholictravelguide.com/destinations/syria/syria-dura-europos-house-church/))
+:::
 
-![Baptismal Font at Duras-Europos Church](images/duras-europos.jpg)
+:::{figure} figures/The-Dura-Europos-baptistry.jpg
+Baptismal Font at Duras-Europos Church ([Source](https://www.phoenixpreacher.com/37974-2/))
+:::
 
 :::{admonition} Justin Martyr on Baptism
 :class: important
@@ -90,7 +93,8 @@ Before the actual baptism, several important ceremonies and rituals were typical
 The catechumens publicly renounced their former way of life, including any ties to paganism or sin, as a preparation for their new life in Christ. This part of the ceremony would also involve exorcisms to symbolically free the catechumens from the influence of evil spirits.
 **2 - Led to the Baptismal Font**
 
-The catechumens were ceremonially led to the baptismal font, often accompanied by prayers and hymns, symbolizing their journey towards new life. 
+The catechumens were ceremonially led to the baptismal font, often accompanied by prayers and hymns, symbolizing their journey towards new life.
+
 - Mark 15:22 mentions Jesus being led to Golgotha, which can be seen as a parallel to the catechumens being led to baptism. 
 - Mark 15:46 states that Jesus was laid in a tomb after his crucifixion, symbolizing the death to sin that baptism represents.
 
