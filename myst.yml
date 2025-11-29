@@ -19,7 +19,7 @@ project:
         - file: introduction/why_study.md
         - file: introduction/alien-tropological.md
         - file: introduction/how-study.md
-    - title: Initial Challenges
+    - title: Initial Challenges (100-313 A.D.)
       children:
         - file: challenges/context.md
         - file: challenges/first-council.md
@@ -46,7 +46,7 @@ project:
         - title: Monks
           children:
             - file: monasticism/monks.md
-    - title: Making Disciples
+    - title: Making Disciples (100-313 A.D.)
       children:
         - file: discipleship/catechumenate.md
         - file: discipleship/baptism.md
@@ -71,6 +71,10 @@ project:
     - title: What is the Gospel? (313-600 A.D.)
       children:
         - file: constantine/constantine.md
+        - title: Leadership (313-600 A.D.)
+          children:
+            - file: constantine/leadership.md
+            - file: constantine/athanasius.md
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
