@@ -50,7 +50,7 @@ project:
       children:
         - file: discipleship/catechumenate.md
         - file: discipleship/baptism.md
-    - title: What is the Gospel?
+    - title: What is the Gospel? (100-313 A.D.)
       children:
         - file: gospel/introduction.md
         - title: Gnosticism
@@ -68,6 +68,9 @@ project:
         - file: gospel/montanism.md
         - file: gospel/leadership.md
         - file: gospel/leaders.md
+    - title: What is the Gospel? (313-600 A.D.)
+      children:
+        - file: constantine/constantine.md
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb

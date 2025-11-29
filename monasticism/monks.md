@@ -12,7 +12,7 @@ The Desert Fathers and Mothers, who lived in the deserts of Egypt, Syria, and Pa
 Monks would see their life style as separating oneself from worldly distractions in order to commit to the spiritual struggle towards maturity in Christ. This maturity would then be a testimony to the world and a means for mission.
 :::
 
-(monk)=
+(monks)=
 The word "monk" comes from the Greek word "monachos," which means "solitary" or "alone." Monks typically live in communities, but they also spend significant time in solitude and contemplation.
 
 (asceticism)=

@@ -23,10 +23,40 @@ We have talked about most of these leaders in other sections of the course. Some
 ## Tertullian (c. 160-225 A.D.)
 
 (tertullian)=
-Tertullian was an early Christian writer and theologian from Carthage in North Africa. He is often referred to as the "Father of Latin Christianity" due to his significant contributions to Christian theology and literature in the Latin language.
+Tertullian was an early Christian writer and theologian from Carthage in North Africa. He is often referred to as the "Father of Latin Christianity" due to his significant contributions to Christian theology and literature in the Latin language. He is very well known for his "What has Athens to do with Jerusalem?" argument, where he opposed the use of Greek philosophy in Christian theology.
+
+:::{figure} figures/Tertullian2.jpeg
+Icon of Tertullian of Carthage
+:::
 
 (trinitas)=
 Tertullian also coined the term "Trinity" (from the latin *trinitas*) to describe the relationship between the Father, Son, and Holy Spirit. He emphasized the unity of God while maintaining the distinctiveness of each person within the Godhead.
 
 Tertullian and Cyprian develop a latin theology that will influence the Western Church for centuries to come while Origen and Clement of Alexandria will do the same for the Eastern Greek Church.
 
+He was raised as a pagan but converted to Christianity as a young man. Tertullian's writings cover a wide range of topics, including apologetics, theology, ethics, and church discipline. He was a prolific writer, and his works had a lasting impact on the development of Christian doctrine and practice.
+
+His anthithesis between Christianity and the pagan culture of his time set the tone for much of Western Christian thought in the centuries that followed.
+
+Tertullian would become a [Montanist](#montanism) later in life. He also advocated for private schools that teach Christian doctrine.
+
+It is also in Tertullian writings that we have our first source of the practice of infant baptism in the early church.
+
+## Cyprian (c. 200-258 A.D.)
+
+(cyprian)=
+Cyprian was a bishop of Carthage and an important early Christian writer and theologian. He is best known for his leadership during a time of persecution and his writings on church unity and discipline. He is considered the father of Ecclesiology in the Western Church.
+
+:::{figure} figures/St-Cyprian-Carthage.png
+Icon of St. Cyprian of Carthage
+:::
+
+Cyprian is well known for his famous phrase "no one can have God as a father who does not have the Church as a mother." He promotes a more pastoral and communal approach to Christianity compared to Tertullian's more individualistic and rigorous stance.
+
+Cyprian got converted to Christianity in his adulthood, 12 years before his martyrdon. He was so bright that they promoted him to bishop after 2 years of being a Christian.
+
+During Diocletian's persecution, Cyprian had to deal with the issue of Christians who had lapsed in their faith under persecution. He advocated for a balanced approach, allowing for the possibility of repentance and restoration to the church for those who had denied their faith but had shown genuine remorse. He also fled Carthage during the persecution, which led to some controversy regarding his leadership.
+
+His teachings guide churches to believe you can be accepted in church again if you reject your faith under persecution but repent later. But that can only happen once. A second lapse is unforgivable.
+
+He was later beheaded for his faith in 258 A.D. during the Valerian persecution.
