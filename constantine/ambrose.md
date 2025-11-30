@@ -1,5 +1,5 @@
 ---
-title: Ambrose
+title: Ambrose of Milan
 subtitle: The Bishop Who Baptized a Saint
 ---
 

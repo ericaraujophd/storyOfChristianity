@@ -78,6 +78,7 @@ project:
             - file: constantine/chrysostom.md
             - file: constantine/jerome.md
             - file: constantine/ambrose.md
+            - file: constantine/augustine.md
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
