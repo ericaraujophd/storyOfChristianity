@@ -13,8 +13,10 @@ Jerome (c. 342-420 A.D.) was a priest, theologian, and historian, best known for
 (vulgate)=
 The Vulgate became the standard Latin version of the Bible for the Western Church and had a profound influence on Christian theology and biblical scholarship for centuries. [Augustine](#augustine), though, criticized the effort due to some changes Jerome made compared to the Septuagint version commonly used at the time.
 
-Pope Damasus I commissioned Jerome to produce this reliable and accurate Latin translation of the Bible. After Damausus's death, Jerome went to Bethlehem, where he lived as a hermit and scholar for the rest of his life.
+Pope Damasus I commissioned Jerome to produce this reliable and accurate Latin translation of the Bible.
 
-He lived as a hermit in the Syrian desert for a time, practicing asceticism and studying the Scriptures.
+Jerome also found a great deal of support from wealthy women, such as Paula and her daughter, Eustochium, who were dedicated to the ascetic life.
 
-Founded two monasteries in Bethlehem with followers for men and women. (Paula)
+Due to his temper, Jerome made many enemies in Rome. After Damausus's death in 384 AD, Jerome lost his protector and decided to leave the city. He moved to Bethlehem, where he established a monastery and continued his scholarly work. Paula and Eustochium followed him there. Paula founded a convent nearby.
+
+Jerome passed a few months after Eustochium's death in 420 AD. He would be buried next to her in the Church of the Nativity in Bethlehem.
