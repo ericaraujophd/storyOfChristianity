@@ -32,15 +32,18 @@ Icon of Tertullian of Carthage
 (trinitas)=
 Tertullian also coined the term "Trinity" (from the latin *trinitas*) to describe the relationship between the Father, Son, and Holy Spirit. He emphasized the unity of God while maintaining the distinctiveness of each person within the Godhead.
 
+In his work "Against Praxeas," Tertullian defends the doctrine of the Trinity against the heresy of [Modalism](#modalism), which denied the distinct persons of the Godhead. He argued that the Father, Son, and Holy Spirit are three distinct persons who share one divine essence.
+
 Tertullian and Cyprian develop a latin theology that will influence the Western Church for centuries to come while Origen and Clement of Alexandria will do the same for the Eastern Greek Church.
 
-He was raised as a pagan but converted to Christianity as a young man. Tertullian's writings cover a wide range of topics, including apologetics, theology, ethics, and church discipline. He was a prolific writer, and his works had a lasting impact on the development of Christian doctrine and practice.
+He was raised as a pagan but converted to Christianity when he was about forty, in Rome [@gonzalez2010story, pg. 88]. Tertullian's writings cover a wide range of topics, including apologetics, theology, ethics, and church discipline. He was a prolific writer, and his works had a lasting impact on the development of Christian doctrine and practice.
 
 His anthithesis between Christianity and the pagan culture of his time set the tone for much of Western Christian thought in the centuries that followed.
 
 Tertullian would become a [Montanist](#montanism) later in life. He also advocated for private schools that teach Christian doctrine.
 
 It is also in Tertullian writings that we have our first source of the practice of infant baptism in the early church.
+
 
 ## Cyprian (c. 200-258 A.D.)
 

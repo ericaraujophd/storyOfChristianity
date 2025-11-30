@@ -106,15 +106,15 @@ The 4th and 5th centuries were a remarkable period of leadership in the early Ch
 
 The list of prominent leaders from this period (313-600 A.D.) includes:
 
-- Athanasius (the black dwarf)
+- [Athanasius (the black dwarf)](#athanasius)
 - Cappadocians:
-  - Gregory of Nazianzus (the Theologian)
-  - Basil of Caesarea (the Churchman)
-  - Gregory of Nyssa (the Philosopher)
-  - Macrina (the Teacher)
-- John Chrysostom (the Golden Mouth)
-- Jerome  (the Grump at Bethlehem)
-- Ambrose of Milan (statesman turned bishop)
-- Augustine (theologian of love)
+  - [Gregory of Nazianzus (the Theologian)](#gregory_of_nazianzus)
+  - [Basil of Caesarea (the Churchman)](#basil_of_caesarea)
+  - [Gregory of Nyssa (the Philosopher)](#gregory_of_nyssa)
+  - [Macrina (the Teacher)](#macrina)
+- [John Chrysostom (the Golden Mouth)](#john_chrysostom)
+- [Jerome  (the Grump at Bethlehem)](#jerome)
+- [Ambrose of Milan (statesman turned bishop)](#ambrose)
+- [Augustine (theologian of love)](#augustine)
 
 We turn now to a brief overview of each of these leaders and their contributions to the church during this transformative period.
