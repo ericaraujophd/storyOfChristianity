@@ -4,7 +4,7 @@ subtitle: The Scholar of Scripture
 ---
 
 (origen)=
-Origen of Alexandria (c. 185–251 AD) was an early Christian theologian, scholar, and prolific writer. He is considered one of the most important figures in early Christian theology and biblical studies. Origen was born in Alexandria, Egypt, a major center of learning and culture in the ancient world. He later moved to Caesarea in Palestine, where he continued his scholarly work. He was a disciple of [Clement of Alexandria](#clement-alexandria) and was deeply influenced by Platonic philosophy.
+Origen of Alexandria (c. 185–251 AD) was an early Christian theologian, scholar, and prolific writer. He is considered one of the most important figures in early Christian theology and biblical studies. Origen was born in Alexandria, Egypt, a major center of learning and culture in the ancient world. He later moved to Caesarea in Palestine, where he continued his scholarly work. He was a disciple of [Clement of Alexandria](#clement_of_alexandria) and was deeply influenced by Platonic philosophy.
 
 Origen is best known for his extensive writings on Christian theology, biblical exegesis, and philosophy. He produced a vast body of work, including commentaries on almost every book of the Bible, theological treatises, and apologetic writings defending Christianity against pagan and heretical critiques.
 
@@ -33,12 +33,12 @@ Origen was martyred during the persecution of Christians under the Roman Emperor
 Illustration of the torture of Origen of Alexandria by Jan Luyken, 1684. Martyrs Mirror, 1685. Origen sought martyrdom at an early age alongside his father, who was arrested by order of Lacto, governor of Egypt, because of his Christian faith and later beheaded. And if he did not do so, it was because his mother hid all his clothes, leaving Origen ashamed to go out like that. Later, he wrote his father a letter, known as “Exhortation to Martyrdom” where he encouraged him to go forward and confess Christ, without fear of leaving his family, because God would provide for the family. And God provided, for a rich woman took care of the widow and children, whose property, as the law required, had been confiscated. [Source](https://www.fosterhistory.com/en/origen-a-persecuted-scholar/)
 :::
 
-:::{admonition} Fun Facts 1
-:icon: lightbulb
+:::{admonition} 🤪 Fun Facts 1
+:icon: false
 Origen reportedly castrated himself as a young man to avoid any temptation of lust, following a literal interpretation of Matthew 19:12. This extreme act reflects his intense commitment to asceticism and spiritual purity, although it was not a common practice among early Christians.
 :::
 
-:::{admonition} Fun Facts 2
-:icon: lightbulb
+:::{admonition} 🤪 Fun Facts 2
+:icon: false
 Origen lost his dad as a martyr when he was just a child. His father, Leonides, was arrested and executed for his Christian faith during the persecution under Emperor Septimius Severus around 202 AD. Trying to follow his father's example, Origen sought to be martyred himself at a young age. However, his mother hid all his clothes to prevent him from going out and seeking martyrdom, leaving him ashamed to go out naked.
 :::

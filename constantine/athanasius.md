@@ -148,19 +148,22 @@ The Cappadocian Fathers: Basil the Great, Gregory of Nazianzus, and Gregory of N
 
 ### Gregory of Nyssa
 
-(gregory-of-nyssa)=
+:::{important}
+:class: simple
+(gregory_of_nyssa)=
 Gregory of Nyssa was born around 335 AD in Caesarea, Cappadocia. He was the younger brother of Basil the Great and a close friend of Gregory of Nazianzus. Gregory had a very different personality from his brother Basil. He was more contemplative and mystical in his approach to theology.
+:::
 
 He married a woman named Theosebia, who was also deeply involved in the Christian faith. After her death, Gregory decided to pursue a monastic life and was ordained a bishop. He became the bishop of Nyssa, a small town in Cappadocia. His writings reflect his life style, focusing on the mystical and spiritual aspects of the Christian faith.
 
-He became a bishop ordained by his brother Basil. After the death of Valens and Basil, he became one of the leading defenders of Nicene orthodoxy. He participated in the [Council of Constantinople](#council-of-constantinople) in 381 AD, abd was requested to travel throughout the Empire by Theodosius I to combat Arianism.
+He became a bishop ordained by his brother Basil. After the death of Valens and Basil, he became one of the leading defenders of Nicene orthodoxy. He participated in the [Council of Constantinople](#council_of_constantinople) in 381 AD, and was requested to travel throughout the Empire by Theodosius I to combat [Arianism](#arianism).
 
 ### Basil the Great
 
 (basil)=
 Basil the Great was born around 329 AD in Caesarea, Cappadocia. He came from a wealthy and influential Christian family. Basil received a classical education in Constantinople and Athens, where he studied rhetoric, philosophy, and theology. After completing his studies, Basil returned to Cappadocia. @gonzalez2010story [pg. 210] notes that Basil was "puffed up with his own wisdom" as he soon got a position teaching rhetoric in Caesarea. When his brother Naucratius passed unexpectedly, Basil was deeply affected and began to reconsider his life. Influenced by his sister Macrina, he decided to resign and started his journey learning the "secrets of religious life" and to live a monastic life.
 
-[Gregory of Nazianzus](#gregory-of-nazianzus) was Basil's close friend from their studies in Athens. They shared a deep commitment to the Christian faith. They also founded a community of monks for men close to Annesi, in the same model as Macrina's community for women.
+[Gregory of Nazianzus](#gregory_of_nazianzus) was Basil's close friend from their studies in Athens. They shared a deep commitment to the Christian faith. They also founded a community of monks for men close to Annesi, in the same model as Macrina's community for women.
 
 Basil was later ordained a presbyter against his will. After some conflict with the bishop of Caesarea, Basil returned to his monastic community. Later, when Arianism resurged in Cappadocia, Basil was invited to join forces with the bishop of Caesarea to defend the Nicene faith.
 
@@ -174,11 +177,11 @@ Basil was elected the bishop of Caesarea in 370 AD. After his election, the Aria
 
 > All that I have that you can confiscate are these rags and a few books. Nor can you exile me, for wherever you send me, I shall be God's guest. As to torture you should know that my body is already dead in Christ. And death would be a great boon to me, leading me sooner to God.
 
-He passed away a few months before the [Council of Constantinople](#concil-of-constantinople) in 381 AD, which would further affirm the Nicene faith and condemn Arianism.
+He passed away a few months before the [Council of Constantinople](#council_of_constantinople) in 381 AD, which would further affirm the Nicene faith and condemn Arianism.
 
 ### Gregory of Nazianzus
 
-(gregory-of-nazianzus)=
+(gregory_of_nazianzus)=
 Gregory of Nazianzus was born around 329 AD in Arianzus, near Nazianzus, Cappadocia. He came from a devout Christian family and was a close friend of Basil the Great. Gregory received a classical education in Constantinople and Athens, where he studied rhetoric and philosophy. After completing his studies, Gregory returned to Cappadocia and became a teacher of rhetoric in Nazianzus.
 
 Gregory was ordained a presbyter against his will. He tried to avoid getting leadership positions as he wanted to pursue a contemplative life. To his dismay, later Basil made him bishop of Sasima, a small town in Cappadocia. This act caused a rift between the two friends, as Gregory felt that Basil had forced him into a position he did not want. They never reconciled.
@@ -187,6 +190,5 @@ In 379 AD, Gregory was called to Constantinople. In 380 AD, the new Emperor Theo
 
 Gregory was meant to preside the Council of Constantinople in 381 AD. However, his opponents pointed out that he was already a bishop in Sasima, and thus could not preside over the council. Gregory resigned from his position as Archbishop of Constantinople and retired to a monastery in Nazianzus, where he spent the rest of his life writing theological works and sermons.
 
-(council-of-constantinople)=
+(council_of_constantinople)=
 The Council of Constantinople in 381 AD was a significant event in the history of Christianity. It was convened by Emperor Theodosius I to address ongoing theological disputes, particularly the Arian controversy. The council reaffirmed the [Nicene Creed](#nicaea) and expanded it to include a more detailed description of the Holy Spirit's divinity. It also condemned various heresies, including Arianism, Apollinarianism, and Macedonianism.
-

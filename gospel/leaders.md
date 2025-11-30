@@ -13,7 +13,7 @@ The list of leaders in the early church is extensive. Among them, we can point o
 5. [Apologists](#apologists)
 6. [Monks](#monks)
 7. [Irenaeus (2c Lyon, battling Gnostics)](#irenaeus)
-8. [Clement (Alexandria, late 2c)](#clement-alexandria)
+8. [Clement (Alexandria, late 2c)](#clement_of_alexandria)
 9. [Origen (Alexandria, early 3c)](#origen)
 10. [Tertullian (Carthage, late 2c)](#tertullian)
 11. [Cyprian (Carthage, early 3c)](#cyprian)

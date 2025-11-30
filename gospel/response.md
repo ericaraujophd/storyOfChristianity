@@ -13,7 +13,7 @@ We will dedicate a whole section on the [Canon](#canon) later in the course. For
 
 ## The Creeds
 
-Creeds are concise statements of Christian belief that summarize essential doctrines. The early church formulated creeds to clarify and defend the faith against heresies, including Gnosticism. The most well-known creeds are the Apostles' Creed and the [Nicene Creed](#niceae). These creeds affirm key beliefs about the nature of God, Jesus Christ, the Holy Spirit, and the church.
+Creeds are concise statements of Christian belief that summarize essential doctrines. The early church formulated creeds to clarify and defend the faith against heresies, including Gnosticism. The most well-known creeds are the Apostles' Creed and the [Nicene Creed](#nicaea). These creeds affirm key beliefs about the nature of God, Jesus Christ, the Holy Spirit, and the church.
 
 Quite often the church in a particular place created their own creedal formula, mostly similar to other churches in the neighboring cities. The Apostles' Creed is an example of a creed that likely developed from the baptismal confession used in the early church. This creed was probably created in Rome, around the year 150 AD, and was called "R" by scholars. This creed at the time was also known as the "symbol of faith". The word symbol in that context refereed to "a means of recognition", like a badge or a flag. The creed served as a way for Christians to identify themselves and their shared beliefs.
 
