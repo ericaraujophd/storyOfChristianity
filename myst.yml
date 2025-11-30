@@ -75,6 +75,9 @@ project:
           children:
             - file: constantine/leadership.md
             - file: constantine/athanasius.md
+            - file: constantine/chrysostom.md
+            - file: constantine/jerome.md
+            - file: constantine/ambrose.md
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb

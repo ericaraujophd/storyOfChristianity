@@ -1,7 +1,9 @@
+---
+title: Jerome
+subtitle: The Grump at Bethlehem
+---
 
 
-
-### Jerome (347-420)
 
 Trained in classical culture. He was a biblical scholar and translator, best known for his Latin translation of the Bible (the Vulgate).
 

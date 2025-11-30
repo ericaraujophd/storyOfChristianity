@@ -108,7 +108,7 @@ The list of prominent leaders from this period (313-600 A.D.) includes:
 
 - [Athanasius (the black dwarf)](#athanasius)
 - Cappadocians:
-  - [Gregory of Nazianzus (the Theologian)](#gregory_of_nazianzus)
+  - [Gregory of Nazianzus (the Theologian)](#gregory-of-nazianzus)
   - [Basil of Caesarea (the Churchman)](#basil_of_caesarea)
   - [Gregory of Nyssa (the Philosopher)](#gregory_of_nyssa)
   - [Macrina (the Teacher)](#macrina)
