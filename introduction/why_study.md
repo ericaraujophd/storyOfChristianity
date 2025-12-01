@@ -1,7 +1,5 @@
 ---
 title: "Why Study?"
-authors:
-    - name: Eric Araujo
 ---
 
 <!-- | ![](figures/woman.jpg) | ![](figures/VaticanMuseums_148.jpg) | -->

@@ -1,6 +1,6 @@
 ---
 title: The Work of the Holy Spirit in Montanism
-sutbitle: A Charismatic Movement in Early Christianity
+subtitle: A Charismatic Movement in Early Christianity
 ---
 
 (montanism)=

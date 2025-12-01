@@ -45,3 +45,14 @@ Therefore, the same Word that called us into existence in the beginning attaches
 Also, during this period, the Macedonians denied the divinity of the Holy Spirit. They were also known as pneumatomachians (fighters against the Spirit).
 
 That is to say that there was a lot going on in the 4th century regarding the understanding of the Trinity. And other councils will be necessary to clarify these matters, such as the [Council of Constantinople](#constantinople) in 381 A.D.
+
+:::{admonition} ☠️ Bad Trinity Analogies
+:icon: false
+:class: simple
+
+**Modalism:** God is one person who appears in different modes. (analogy: water, ice, steam)
+
+**Arianism:** the Son is a created being of different substance with the Father.
+
+**Partialism:** the Son is divine but not as much as the Father.
+:::

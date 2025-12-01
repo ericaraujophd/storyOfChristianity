@@ -1,7 +1,5 @@
 ---
 title: "How to Study?"
-authors:
-    - name: Eric Araujo
 ---
 
 ## How to Study Church History?

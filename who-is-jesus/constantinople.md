@@ -11,13 +11,3 @@ The Council of Constantinople, held in 381 A.D., was the second ecumenical counc
 
 The split between East and West: filioque clause (and other issues).
 
-:::{admonition} ☠️ Bad Trinity Analogies
-:icon: false
-:class: simple
-
-**Modalism:** God is one person who appears in different modes. (analogy: water, ice, steam)
-
-**Arianism:** the Son is a created being of different substance with the Father.
-
-**Partialism:** the Son is divine but not as much as the Father.
-:::

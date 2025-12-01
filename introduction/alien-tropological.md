@@ -1,7 +1,5 @@
 ---
 title: "An Alien-tropologist"
-authors:
-    - name: Eric Araujo
 ---
 
 ## An Alien-tropological Experience

@@ -41,3 +41,18 @@ For although we deserve every punishment and chastisement,
     you have mercy and do good to us with myriads of blessings.
 Glory to you, O Lord, our God, for everything.  Amen.
 :::
+
+
+:::{admonition} Prayer of St. Augustine
+Lord Jesus, our Savior, let us now come to you: 
+Our hearts are cold; 
+    Lord, warm them with your selfless love. 
+Our hearts are sinful; 
+    cleanse them with your precious blood. 
+Our hearts are weak; 
+    strengthen them with your joyous Spirit. 
+Our hearts are empty; 
+    fill them with your divine presence.  
+Lord Jesus, our hearts are yours; 
+    possess them always and only for yourself.  Amen. 
+:::

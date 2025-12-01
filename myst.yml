@@ -10,6 +10,10 @@ project:
       email: eric.araujo@calvin.edu
       corresponding: true
   bibliography: references.bib
+  exports:
+  - format: pdf
+    template: plain_latex_book
+    output: exports/website.pdf
   # github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
@@ -83,6 +87,7 @@ project:
         - file: who-is-jesus/introduction.md
         - file: who-is-jesus/nicaea.md
         - file: who-is-jesus/constantinople.md
+        - file: who-is-jesus/chalcedon.md
     - title: "Appendixes"
       children:
         - file: appendix/martyrs/martyrdoms_jupyter_notebook.ipynb
