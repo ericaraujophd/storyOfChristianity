@@ -21,12 +21,10 @@ project:
   toc:
     - file: index.md
     - file: introduction/why_study.md
-    - title: "Initial Challenges (100-313 A.D.)"
+    - file: challenges/context-church.md
+    - file: challenges/roman-empire.md
+    - file: challenges/mission.md
       children:
-        - file: challenges/context.md
-        - file: challenges/first-council.md
-        - file: challenges/roman-empire.md
-        - file: challenges/mission.md
         - file: apostolic-fathers/overview.md
         - file: apostolic-fathers/documents.md
         - title: Martyrs

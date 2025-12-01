@@ -1,9 +1,21 @@
 ---
-title: "The First Council"
-authors:
-    - name: Eric Araujo
+title: "The First Council and The 4 Periods of Church History"
+subtitle: "Overview of the Ancient Church Context"
 date: 2025-09-08
 ---
+
+:::{admonition} Personal Notes
+:class: simple
+Our first focus is on the Roman empire's persecution of Christians. Prof. Rylaarsdam discussed the historical context of the Roman Empire during the first few centuries A.D., highlighting the political, social, and religious factors that contributed to the persecution of Christians.
+
+A great part of the class was to discuss the Introduction of the book "On the Incarnation" by Athanasius of Alexandria. This introduction was written by C.S. Lewis, and it is an encouragement for those who want to understand the early church to read the original sources. [@athanasius1891incarnation]
+:::
+
+---
+
+:::{figure} figures/Roman_Empire_Trajan_117AD.png
+The Roman Empire in 117 AD at its greatest extent, at the time of Trajan's death (with its vassals in pink) [Source](https://commons.wikimedia.org/wiki/File:Roman_Empire_Trajan_117AD.png)
+:::
 
 ## The First Church Council: A Judaizing Heresy
 
@@ -17,7 +29,7 @@ The meeting of the council was significant because it marked a turning point in 
 It is quite fascinating that they wrote down the decisions of the council in a letter to be sent to the churches. This shows the importance of communication and unity in the early church, as well as the recognition that the decisions made at the council had implications for the wider Christian community.
 
 :::{admonition} The letter to the gentiles from Acts 15
-:class: tip
+:class: simple
 28 It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements: 
 
 29 You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things.
