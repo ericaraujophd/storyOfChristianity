@@ -32,13 +32,9 @@ Prof. Rylaarsdam also explained the origins of the expression "The Lord be with 
 
 This journal will include summaries of lectures, reflections on readings, and personal insights gained throughout the course. It aims to provide a comprehensive overview of the material covered and to deepen my understanding of the Christian faith and its historical context. The main goal is to inform myself and keep track of the knowledge acquired during this educational experience.
 
-```{figure} figures/VaticanMuseums_148.jpg
-:alt: "Grand Pastoral Sarcophagus" from Via Prenestina, painted and gilt, late 3rd/early 4th c. Vatican Museums, 31485 (ex 150)
-:align: center
-:width: 300px
-"Grand Pastoral Sarcophagus" from Via Prenestina, painted and gilt, late 3rd/early 4th c. Vatican Museums, 31485 (ex 150) | 
-[Source](https://www.kornbluthphoto.com/VaticanPastoralSarcophagus31485.html)
-```
+:::{figure} figures/VaticanMuseums_148.jpg
+Grand Pastoral Sarcophagus" from Via Prenestina, painted and gilt, late 3rd/early 4th c. Vatican Museums, 31485 (ex 150) | [Source](https://www.kornbluthphoto.com/VaticanPastoralSarcophagus31485.html)
+:::
 
 ## Introduction
 
