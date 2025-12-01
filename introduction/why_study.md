@@ -42,8 +42,8 @@ The main question of this topic will be: Why study the history of Christianity? 
 
 It is quite common for seminary students to question the relevance of church history for their ministry. Some may see it as a mere academic exercise, while others may view it as a distraction from more practical concerns. However, studying church history is essential for several reasons, which will be explored in this topic.
 
-:::{figure} /figures/stpeter.jpg
-St Peter Preaching in the Presence of St Mark. Fra Angelico, c. 1440-41. [Source](https://en.wikipedia.org/wiki/Fra_Angelico#)
+:::{figure} figures/stpeter.jpg
+St Peter Preaching in the Presence of St Mark. Fra Angelico, c. 1440-41. | [Source](https://en.wikipedia.org/wiki/Fra_Angelico#)
 :::
 
 ## Reasons to Study Church History
