@@ -12,31 +12,23 @@ project:
   bibliography: references.bib
   exports:
   - format: pdf
-    template: plain_latex_book
+    template: plain_latex
     output: exports/website.pdf
+  numbering:
+    offset: 1
   # github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: index.md
-    - title: Introduction
-      children:
-        - file: introduction/why_study.md
-        - file: introduction/alien-tropological.md
-        - file: introduction/how-study.md
-    - title: Initial Challenges (100-313 A.D.)
+    - file: introduction/why_study.md
+    - title: "Initial Challenges (100-313 A.D.)"
       children:
         - file: challenges/context.md
         - file: challenges/first-council.md
         - file: challenges/roman-empire.md
         - file: challenges/mission.md
-        - title: Apostolic Fathers
-          children:
-            - file: apostolic-fathers/overview.md
-            - file: apostolic-fathers/didache.md
-            - file: apostolic-fathers/barnabas.md
-            - file: apostolic-fathers/hermas.md
-            - file: apostolic-fathers/clement.md
-            - file: apostolic-fathers/ignatius.md
+        - file: apostolic-fathers/overview.md
+        - file: apostolic-fathers/documents.md
         - title: Martyrs
           children:
             - file: martyrs/introduction.md
@@ -50,20 +42,16 @@ project:
         - title: Monks
           children:
             - file: monasticism/monks.md
-    - title: Making Disciples (100-313 A.D.)
+    - title: "Making Disciples (100-313 A.D.)"
       children:
         - file: discipleship/catechumenate.md
         - file: discipleship/baptism.md
-    - title: What is the Gospel? (100-313 A.D.)
+    - title: "What is the Gospel? (100-313 A.D.)"
       children:
         - file: gospel/introduction.md
-        - title: Gnosticism
-          children:
-            - file: gospel/gnosticism/introduction.md
-            - file: gospel/gnosticism/valentinianism.md
-            - file: gospel/gnosticism/docetism.md
-            - file: gospel/gnosticism/marcionism.md
-            - file: gospel/gnosticism/application.md
+        - file: gospel/gnosticism/gnostic-story.md
+        - file: gospel/gnosticism/movements.md
+        - file: gospel/gnosticism/application.md
         - file: gospel/response.md
         - file: gospel/irenaeus.md
         - file: gospel/creeds.md
@@ -72,7 +60,7 @@ project:
         - file: gospel/montanism.md
         - file: gospel/leadership.md
         - file: gospel/leaders.md
-    - title: What is the Gospel? (313-600 A.D.)
+    - title: "Who is Jesus? (313-600 A.D.)"
       children:
         - file: constantine/constantine.md
         - file: constantine/leadership.md

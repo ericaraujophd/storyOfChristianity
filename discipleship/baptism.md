@@ -232,42 +232,13 @@ The practice of infant communion continued in the West until the 13th century, b
 
 Some of the reasons for the change in the Western Church include:
 
-1. Strengthening the power of bishops: In the West, only a bishop was allowed to confirm a baptism. Since a bishop was not available in some areas for many years, infant participation in Communion was sometimes delayed.
-
-:::{admonition} Medieval mentality
-:class: tip
-Power to the hierarchy!
-:::
-
-Some bishops would pass by some villages for years without visiting baptizing from the horseback as passing by.
-
-2. The doctrine of transubstantiation (13th cent.): The substance of bread and wine changes into the actual body and blood of Jesus.
-
-:::{admonition} Medieval mentality
-:class: tip
-Don’t let children drop Jesus’ actual body on the floor or slobber into his real blood!
-:::
-
-3. Heavy penitential piety: Kids can’t do serious penance like adults can.  
-
-:::{admonition} Medieval mentality
-:class: tip
-Kids shouldn’t come to the Eucharist until their penance makes them worthy.
-:::
-
-4. Making up a doctrine: confirmation. In this so-called sacrament, individuals confirm their place in the church.
-
-:::{admonition} Medieval mentality
-:class: tip
-Confirmation is a sacrament even though its biblical support is underwhelming.
-:::
-
-5. Parents who thought confirmation wasn’t a sacrament were punished: Parents and their kids were banned from communion if the kids were not confirmed.
-
-:::{admonition} Medieval mentality
-:class: tip
-Confirmation is a sacrament and people who disobey the hierarchy must be punished.
-:::
+| Factor | Description | Medieval Mentality |
+|--------|-------------|-------------------|
+| **1. Strengthening the power of bishops** | In the West, only a bishop was allowed to confirm a baptism. Since a bishop was not available in some areas for many years, infant participation in Communion was sometimes delayed. Some bishops would pass by some villages for years without visiting, baptizing from horseback as they passed by. | Power to the hierarchy! |
+| **2. The doctrine of transubstantiation (13th cent.)** | The substance of bread and wine changes into the actual body and blood of Jesus. | Don't let children drop Jesus' actual body on the floor or slobber into his real blood! |
+| **3. Heavy penitential piety** | Kids can't do serious penance like adults can. | Kids shouldn't come to the Eucharist until their penance makes them worthy. |
+| **4. Making up a doctrine** | Confirmation. In this so-called sacrament, individuals confirm their place in the church. | Confirmation is a sacrament even though its biblical support is underwhelming. |
+| **5. Punishment to Parents** | Parents who thought confirmation wasn't a sacrament were punished: Parents and their kids were banned from communion if the kids were not confirmed. | Confirmation is a sacrament and people who disobey the hierarchy must be punished. |
 
 In the 16th century, Reformers clarified that confirmation is not a sacrament, and renamed it "public profession of faith."
 
