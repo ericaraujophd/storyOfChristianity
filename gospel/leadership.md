@@ -1,6 +1,6 @@
 ---
-title: Leadership in the Early Church
-subtitle: 100-313 A.D.
+title: Leadership
+subtitle: "The Development of Church Leadership Structures"
 date: 2025-10-06
 ---
 
@@ -8,17 +8,19 @@ The fourth aspect of the response to Gnosticism is the establishment of leadersh
 
 Even though the roles were still developing, bishops were seen as the successors of the apostles and held the highest authority in the local church. They were responsible for teaching, governing, and safeguarding the faith. Presbyters assisted the bishops in pastoral care and administration, while deacons served in practical roles, such as caring for the poor and managing church resources.
 
-These offices were not distinguished until Tertullian (ca. 160-225 A.D.) wrote about them in his work "On the Prescription of Heretics." The development of this leadership structure helped to ensure that the teachings of the apostles were preserved and transmitted faithfully, providing stability and continuity for the early Christian communities.
+These offices were not distinguished until [Tertullian](#tertullian) (ca. 160-225 A.D.) wrote about them in his work "On the Prescription of Heretics." The development of this leadership structure helped to ensure that the teachings of the apostles were preserved and transmitted faithfully, providing stability and continuity for the early Christian communities.
 
 ## Cultural Influences on Leadership
 
 There were mainly three cultural influences on the development of church leadership:
 
-1. **Social Influence**: The "household of God" model was influenced by the Roman household structure, where the paterfamilias (head of the household) held authority over family members. This model was adapted to the church context, with bishops serving as spiritual heads of the Christian community.
-2. **Philosophical Influence**: school leadership structures, such as those in Stoicism and Platonism, also influenced the church's leadership model. These schools often had a hierarchical structure with a head teacher and assistants, which provided a framework for organizing church leadership.
-3. **Jewish Influence**: The early Christian church inherited many leadership concepts from Jewish synagogue structures, where elders and teachers played significant roles in guiding the community.
+1. Social Influence
+2. Philosophical Influence
+3. Jewish Influence
 
 ### 1. Social Influence
+
+The "household of God" model was influenced by the Roman household structure, where the paterfamilias (head of the household) held authority over family members. This model was adapted to the church context, with bishops serving as spiritual heads of the Christian community.
 
 Everyday Greco-Roman households consisted of approximately 50 persons from at least three generations, in addition to which there would be servants, slaves, tenants, clients, and others.
 
@@ -30,7 +32,9 @@ So, by analogy, a person in the church should obey the bishop/*episkopos* (the h
 
 ### 2. Philosophical Influence
 
-Many schools of philosophy co-existed with the Early Christianity in the Greco-Roman world. Regardless, Christianity claimed to be the true philosophy, and the church was God’s school.
+Many schools of philosophy co-existed with the Early Christianity in the Greco-Roman world. Many school leadership structures, such as those in Stoicism and Platonism, also influenced the church's leadership model. These schools often had a hierarchical structure with a head teacher and assistants, which provided a framework for organizing church leadership.
+
+Regardless, Christianity claimed to be the true philosophy, and the church was God’s school.
 
 :::{admonition} Justin Martyr's School
 :class: tip
@@ -50,7 +54,7 @@ Christianity looked similar to these philosophical schools.
 
 ### 3. Jewish Influence
 
-In [The Apostolic Constitutions](https://en.wikipedia.org/wiki/Apostolic_Constitutions), OT Israelite structures have parallels in the church. Three church offices were shaped by the duties of the Israelites.  
+The early Christian church inherited many leadership concepts from Jewish synagogue structures, where elders and teachers played significant roles in guiding the community. In [The Apostolic Constitutions](https://en.wikipedia.org/wiki/Apostolic_Constitutions), OT Israelite structures have parallels in the church. Three church offices were shaped by the duties of the Israelites.  
 
 - ➡️ The bishop is somewhat similar to the high priest,
   - ➡️ presbyters to priests,
@@ -58,7 +62,7 @@ In [The Apostolic Constitutions](https://en.wikipedia.org/wiki/Apostolic_Constit
 
 There also seemed to be a correlation between synagogue roles and developing church leadership roles.
 
-The administrator of the church, an *episkopos*, acquired some functions of a Jewish *archisynagogos* ('ruler/head/administrator of the synagogue'). 
+The administrator of the church, an *episkopos*, acquired some functions of a Jewish *archisynagogos* ('ruler/head/administrator of the synagogue').
 
 The *diakonoi* in the churches acquired some functions of the almoners and attendants in the Jewish synagogues.
 
@@ -93,12 +97,12 @@ In Acts and the Pastoral Epistles "elders" (*presbyteroi*) appears, but it is un
 The multiplicity of functions (readers, singers, porters, deaconesses, widows, virgins, orphans) and the dominance of the bishop are more noticeable than a threefold office ([The Apostolic Constitutions](https://en.wikipedia.org/wiki/Apostolic_Constitutions)).
 
 :::{admonition} *episkopos* and *diakonoi*
-:class: important
+:class: simple
 Bishops and deacons may have been the only appointed 'officers' of a congregation. The church was 'God’s household' (1 Tim 3:15): the *episkopos* was 'God’s steward' (Titus 1:7) and the *diakonoi* were the servants.  
 :::
 
 (presbyter)=
-:::{admonition} "presbyter"
-:class: important
+:::{admonition} "presbyter"
+:class: simple
 An ambiguous term that suggested seniority: these senior citizens carried the community memory and therefore were responsible to teach the apostolic tradition. The *episkopos* turns to the senior members for advice, so they acted as an advisory council.
 :::

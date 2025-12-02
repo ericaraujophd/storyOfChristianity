@@ -1,6 +1,6 @@
 ---
-title: Prominent Leaders in the Early Church
-subtitle: 100-313 A.D.
+title: Prominent Leaders
+subtitle: "The Key Figures in the Early Church"
 date: 2025-10-06
 ---
 
@@ -18,7 +18,7 @@ The list of leaders in the early church is extensive. Among them, we can point o
 10. [Tertullian (Carthage, late 2c)](#tertullian)
 11. [Cyprian (Carthage, early 3c)](#cyprian)
 
-We have talked about most of these leaders in other sections of the course. Some will be talked about later. Here we will focus on the leadership of Tertullian and Cyprian, who were instrumental in shaping the early church's response to Gnosticism and establishing leadership structures.
+We have talked about a few of these leaders in other sections of the course. Some will be talked about later. Here we will focus on the leadership of [Tertullian](#tertullian) and [Cyprian](#cyprian), who were instrumental in shaping the early church's response to Gnosticism and establishing leadership structures. Later, we will give a greater focus on [Irenaeus](#irenaeus), and [Origen](#origen).
 
 ## Tertullian (c. 160-225 A.D.)
 
@@ -43,7 +43,6 @@ His anthithesis between Christianity and the pagan culture of his time set the t
 Tertullian would become a [Montanist](#montanism) later in life. He also advocated for private schools that teach Christian doctrine.
 
 It is also in Tertullian writings that we have our first source of the practice of infant baptism in the early church.
-
 
 ## Cyprian (c. 200-258 A.D.)
 

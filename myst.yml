@@ -22,28 +22,22 @@ project:
     - file: index.md
     - file: introduction/why_study.md
     - file: context/context-church.md
-    - file: context/roman-empire.md
-    - file: context/mission.md
-    - file: context/apostolic-fathers.md
-    - file: martyrs/martyrs.md
-    - file: apologists/apologists.md
-    - file: monasticism/monks.md
-    - file: discipleship/catechumenate.md
-    - file: discipleship/baptism.md
-    - title: "What is the Gospel? (100-313 A.D.)"
+    - title: "Early Church (100-313 A.D.)"
       children:
-        - file: gospel/introduction.md
+        - file: context/roman-empire.md
+        - file: context/mission.md
+        - file: context/apostolic-fathers.md
+        - file: martyrs/martyrs.md
+        - file: apologists/apologists.md
+        - file: monasticism/monks.md
+        - file: discipleship/catechumenate.md
+        - file: discipleship/baptism.md
         - file: gospel/gnosticism/gnostic-story.md
-        - file: gospel/gnosticism/movements.md
-        - file: gospel/gnosticism/application.md
         - file: gospel/response.md
-        - file: gospel/irenaeus.md
-        - file: gospel/creeds.md
-        - file: gospel/canon.md
-        - file: gospel/origen.md
-        - file: gospel/montanism.md
         - file: gospel/leadership.md
         - file: gospel/leaders.md
+        - file: gospel/irenaeus.md
+        - file: gospel/origen.md
     - title: "Who is Jesus? (313-600 A.D.)"
       children:
         - file: constantine/constantine.md
