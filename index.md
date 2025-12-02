@@ -1,21 +1,21 @@
 ---
 title: "Story Of Christianity I"
-authors:
-    - name: Eric Araujo
+subtitle: Final Project Journal
 ---
 
-This is a journal documenting my journey through the course "Story Of Christianity I" offered by Calvin Seminary. The course explores the history of Christianity from its origins to the medieval period, examining key events, figures, and theological developments.
-
-This journal will include summaries of lectures, reflections on readings, and personal insights gained throughout the course. It aims to provide a comprehensive overview of the material covered and to deepen my understanding of the Christian faith and its historical context. The main goal is to inform myself and keep track of the knowledge acquired during this educational experience.
-
-
-:::{admonition} Disclaimer
-:class: warning
-I've created the different lecture pages trying to organize them by theme and not necessarily following the order of the lectures. So some of the lecture numbers may not correspond to the actual sequence of the course.
-:::
-
-Please don't use this journal as a faithful source, as it is primarily for personal use and reflection. While I strive for accuracy in summarizing the course content, it may contain my interpretations and opinions.
+Welcome to my journal for the course **Story Of Christianity I**, offered by [Calvin Seminary](https://calvinseminary.edu/)! I am thrilled to share my learning journey with you. This course is taught by [Professor David Rylaarsdam](https://calvinseminary.edu/profile/david-m-rylaarsdam/), where we explore the history of Christianity from its origins to the medieval period, examining key events, figures, and theological developments.
 
 :::{figure} intro.png
 Picture taken in our visit to the Saint Nicholas Antiochian Orthodox Church, in Grand Rapids, MI.
+:::
+
+This journal will include summaries of lectures, reflections on readings, and personal insights gained throughout the course. It aims to provide a comprehensive overview of the material covered and to deepen my understanding of the Christian faith and its historical context. The main goal is to inform myself and keep track of the knowledge acquired during this educational experience.
+
+---
+
+:::{admonition} Disclaimer
+:class: simple
+I've created the different lecture pages trying to organize them by theme and not necessarily following the order of the lectures. So some of the lecture numbers may not correspond to the actual sequence of the course.
+
+Please don't use this journal as a faithful source, as it is primarily for personal use and reflection. While I strive for accuracy in summarizing the course content, it may contain my interpretations and opinions.
 :::
