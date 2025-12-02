@@ -41,17 +41,14 @@ project:
     - title: "Who is Jesus? (313-600 A.D.)"
       children:
         - file: constantine/constantine.md
-        - file: constantine/leadership.md
-        - title: Leadership (313-600 A.D.)
-          children:
-            - file: constantine/athanasius.md
-            - file: constantine/chrysostom.md
-            - file: constantine/jerome.md
-            - file: constantine/ambrose.md
-            - file: constantine/augustine.md
-        - file: constantine/gospel-story.md
-        - file: who-is-jesus/introduction.md
         - file: who-is-jesus/nicaea.md
+        - file: constantine/leadership.md
+        - file: constantine/athanasius.md
+        - file: constantine/chrysostom.md
+        - file: constantine/jerome.md
+        - file: constantine/ambrose.md
+        - file: constantine/augustine.md    
+        - file: constantine/gospel-story.md
         - file: who-is-jesus/constantinople.md
         - file: who-is-jesus/chalcedon.md
     - title: "Appendixes"

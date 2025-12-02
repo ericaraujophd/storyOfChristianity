@@ -14,6 +14,10 @@ Augustine's theological contributions are vast and varied. He is perhaps best kn
 
 Augustine faced mainly three significant heresies during his lifetime: Manichaeism, Donatism, and Pelagianism. He wrote extensively against these heresies, defending orthodox Christian doctrine and shaping the church's understanding of key theological concepts.
 
+:::{figure} figures/augustine-and-the-child.jpg
+Saint Augustine of Hippo: a child compares its attempt to empty the sea with a spoon with Saint Augustine's attempts understand the Holy Trinity. Pen and ink drawing. 1723. | [Source](https://wellcomecollection.org/works/hnvqztq2)
+:::
+
 ### Augustine against Manichaeism
 
 (manichaeism)=

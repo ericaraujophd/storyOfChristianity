@@ -1,5 +1,5 @@
 ---
-title: A Summary of the Gospel Story
+title: The Gospel Story According to Three Church Fathers
 subtitle: Irenaeus, Athanasius, Augustine
 --- 
 
