@@ -1,5 +1,5 @@
 ---
-title: "The Baptism"
+title: "Making Disciples: The Baptism"
 subtitle: "Forming Disciples Through Baptism"
 date: 2025-09-22
 ---

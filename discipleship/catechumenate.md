@@ -1,6 +1,6 @@
 ---
-title: "The Catechumenate"
-subtitle: "Making Disciples in the Early Church"
+title: "Making Disciples: The Catechumenate"
+subtitle: "Forming Disciples Through the Catechumenate"
 date: 2025-09-22
 ---
 

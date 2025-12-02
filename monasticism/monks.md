@@ -1,5 +1,6 @@
 ---
-title: "Mission According to Monasticism"
+title: Monks
+subtitle: "Mission According to Monasticism"
 date: 2025-09-17
 ---
 
@@ -64,16 +65,18 @@ Pachomian monastery
 
 ### Semi-Eremitic Monasticism
 
+(semi-eremitic)=
 Semi-eremitic monasticism is a hybrid form of monasticism that combines elements of both anchrotic and cenobitic monasticism. Semi-eremitic monks would live in small groups or pairs, often in remote areas, but they would still maintain some level of communal living and shared resources. This form of monasticism allowed for a balance between solitude and community, providing monks with the opportunity for both personal spiritual growth and mutual support.
 
 ### Stylites
 
+(stylites)=
 Stylites were a unique form of monasticism that involved living on top of a pillar or column. Stylites would often spend years living in this elevated position, dedicating themselves to prayer and contemplation. This form of monasticism was seen as a way to separate oneself from the distractions of the world while still remaining visible to the community below.
 
 Simeon the Elder or Simeon Stylites (c. 390-459) is one of the most famous stylites. He lived on top of a pillar for over 30 years, attracting many visitors who sought his spiritual guidance and blessings.
 
 ## Jerome
 
-St. Jerome (c. 347-420) was a Christian scholar and translator best known for his Latin translation of the Bible, known as the Vulgate. He spent much of his life in the desert as a hermit, dedicating himself to prayer, study, and the pursuit of holiness. Jerome's writings and teachings had a significant impact on the development of monasticism and Christian theology.
+[St. Jerome (c. 347-420)](#jerome) was a Christian scholar and translator best known for his Latin translation of the Bible, known as the Vulgate. He spent much of his life in the desert as a hermit, dedicating himself to prayer, study, and the pursuit of holiness. Jerome's writings and teachings had a significant impact on the development of monasticism and Christian theology.
 
 Jerome emphasized the importance of asceticism and spiritual discipline, encouraging Christians to live lives of holiness and devotion. He also advocated for the study of Scripture and the pursuit of knowledge, believing that a deep understanding of God's Word was essential for spiritual growth.

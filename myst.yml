@@ -21,29 +21,15 @@ project:
   toc:
     - file: index.md
     - file: introduction/why_study.md
-    - file: challenges/context-church.md
-    - file: challenges/roman-empire.md
-    - file: challenges/mission.md
-      children:
-        - file: apostolic-fathers/overview.md
-        - file: apostolic-fathers/documents.md
-        - title: Martyrs
-          children:
-            - file: martyrs/introduction.md
-            - file: martyrs/persecutions.md
-            - file: martyrs/reasons.md
-            - file: martyrs/important.md
-            - file: martyrs/stats.md
-        - title: Apologists
-          children:
-            - file: apologists/introduction.md
-        - title: Monks
-          children:
-            - file: monasticism/monks.md
-    - title: "Making Disciples (100-313 A.D.)"
-      children:
-        - file: discipleship/catechumenate.md
-        - file: discipleship/baptism.md
+    - file: context/context-church.md
+    - file: context/roman-empire.md
+    - file: context/mission.md
+    - file: context/apostolic-fathers.md
+    - file: martyrs/martyrs.md
+    - file: apologists/apologists.md
+    - file: monasticism/monks.md
+    - file: discipleship/catechumenate.md
+    - file: discipleship/baptism.md
     - title: "What is the Gospel? (100-313 A.D.)"
       children:
         - file: gospel/introduction.md

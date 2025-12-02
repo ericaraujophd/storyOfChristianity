@@ -1,0 +1,60 @@
+---
+title: "The First Council and The 4 Periods of Church History"
+subtitle: "Overview of the Ancient Church Context"
+date: 2025-09-08
+---
+
+:::{admonition} Personal Notes
+:class: simple
+Our first focus is on the Roman empire's persecution of Christians. Prof. Rylaarsdam discussed the historical context of the Roman Empire during the first few centuries A.D., highlighting the political, social, and religious factors that contributed to the persecution of Christians.
+
+A great part of the class was to discuss the Introduction of the book "On the Incarnation" by Athanasius of Alexandria. This introduction was written by C.S. Lewis, and it is an encouragement for those who want to understand the early church to read the original sources. [@athanasius1891incarnation]
+:::
+
+---
+
+:::{figure} figures/Roman_Empire_Trajan_117AD.png
+The Roman Empire in 117 AD at its greatest extent, at the time of Trajan's death (with its vassals in pink) [Source](https://commons.wikimedia.org/wiki/File:Roman_Empire_Trajan_117AD.png)
+:::
+
+## The First Church Council: A Judaizing Heresy
+
+Before touching on the Roman persecution of Christians, it is important to understand the context of the early church and one of its first major challenges: the question of Gentile converts and their relationship to Jewish customs. That is to say that persecution was not the only challenge the early church faced.
+
+(first-council)=
+Acts 15 describes the first church council, which took place in Jerusalem around 50 AD. The council was convened to address the question of whether Gentile converts to Christianity needed to follow Jewish customs and laws, such as circumcision and dietary restrictions. The council ultimately decided that Gentile converts did not need to follow these customs, but they were asked to abstain from certain practices that were particularly offensive to Jewish Christians, such as eating food sacrificed to idols.
+
+The meeting of the council was significant because it marked a turning point in the early church's understanding of its identity and mission. It affirmed that Christianity was not simply a sect of Judaism but a distinct faith that welcomed Gentile believers. This decision helped to pave the way for the spread of Christianity throughout the Roman Empire and beyond.
+
+It is quite fascinating that they wrote down the decisions of the council in a letter to be sent to the churches. This shows the importance of communication and unity in the early church, as well as the recognition that the decisions made at the council had implications for the wider Christian community.
+
+:::{admonition} The letter to the gentiles from Acts 15
+:class: simple
+28 It seemed good to the Holy Spirit and to us not to burden you with anything beyond the following requirements: 
+
+29 You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals and from sexual immorality. You will do well to avoid these things.
+
+Farewell.
+:::
+
+## The Ancient Church and Their 4 Periods
+
+The lecture then moved to refresh the illustration of the seminary alien grad student and his perceptions of Christianity. Regarding the indigenizing and pilgrim principles, it was noted that there are good things in every culture that can be celebrated by Christians. However, there are also bad things that need to be rejected or redeemed.
+
+Some recommendation of Andrew Walls' work on the history of Christianity and culture was given, particularly his book "The Missionary Movement in Christian History: Studies in the Transmission of Faith." [@walls2015missionary]
+
+A discussion on faithful contextualization followed, starting by the presentation of the ancient church context.
+
+The ancient church from 100-313 AD faced mainly two challenges:
+
+1. What is our identity in relation to Judaism?
+2. How do we engage with the surrounding idolatrous Greco-Roman culture?
+
+And these first centuries will be the focus of the following lectures. Later, the other three periods of church history will be presented. The four periods can be summarized as follows:
+
+| Period | Time Period | Key Events |
+|--------|-------------|------------|
+| Ancient Church | 100-313 | Apostolic Fathers – Edict of Milan |
+| Christian Empire | 313-600 | Edict of Milan – Gregory the Great |
+| Early Middle Ages | 600-1054 | Gregory the Great – Great Schism |
+| High Middle Ages | 1054-1274 | Great Schism – Bonaventure/Aquinas |
