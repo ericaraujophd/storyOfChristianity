@@ -22,7 +22,7 @@ project:
     - file: index.md
     - file: introduction/why_study.md
     - file: context/context-church.md
-    - title: "Early Church (100-313 A.D.)"
+    - title: "Ancient Church (100-313 A.D.)"
       children:
         - file: context/roman-empire.md
         - file: context/mission.md
@@ -38,7 +38,7 @@ project:
         - file: gospel/leaders.md
         - file: gospel/irenaeus.md
         - file: gospel/origen.md
-    - title: "Who is Jesus? (313-600 A.D.)"
+    - title: "Christian Empire (313-600 A.D.)"
       children:
         - file: constantine/constantine.md
         - file: who-is-jesus/nicaea.md
@@ -62,4 +62,3 @@ site:
     logo: Calvin_College.png
     logo_text: "Story of Christianity"
     favicon: Calvin_College.png
-

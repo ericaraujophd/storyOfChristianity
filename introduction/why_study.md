@@ -6,41 +6,15 @@ title: "Why Study?"
 
 <!-- [Source](https://chandlerozconsultants.wordpress.com/category/sacraments/) -->
 
-:::{admonition} 🎄 About this work
-:icon: false
-This work is a compilation of notes and reflections based on the lectures and readings from the course "Story of Christianity I" taught by Prof. Rylaarsdam at Calvin University in the Fall semester of 2025. The content is organized thematically and chronologically to provide a comprehensive overview of the early Christian church's history, challenges, and theological developments. The full content can be found on [the website](https://ericaraujo.com/storyOfChristianity/).
-:::
 
-:::{admonition} 📜 Lecture Notes
-:icon: false
 
-It was a great surprise to start this course with the question of what difference it makes if we stand, kneel, or sit to pray. The posture we assume when we pray is not a trivial matter. It reflects our understanding of who God is and who we are in relation to Him.
+<!-- This journal will include summaries of lectures, reflections on readings, and personal insights gained throughout the course. It aims to provide a comprehensive overview of the material covered and to deepen my understanding of the Christian faith and its historical context. The main goal is to inform myself and keep track of the knowledge acquired during this educational experience. -->
 
-He also presented the three postures for prayer in the ancient church (and guess what? sitting was not one of them!): standing, kneeling, and prostrating. Each posture has its own meaning and significance:
-
-- Standing is a posture of respect and attentiveness,
-- Kneeling is a posture of humility and submission, and
-- Prostrating is a posture of total surrender and worship, also connected to repentance.
-
-Prof. Rylaarsdam also explained the origins of the expression "The Lord be with you", recalling Boaz's greeting to his workers in Ruth 2:4. This greeting is not just a polite expression; it carries deep theological significance. It acknowledges God's presence and blessing in our lives, especially in communal worship settings.
-:::
-
-:::{figure} figures/woman.jpg
-:width: 300px
-[Source](https://chandlerozconsultants.wordpress.com/category/sacraments/)
-:::
-
-This journal will include summaries of lectures, reflections on readings, and personal insights gained throughout the course. It aims to provide a comprehensive overview of the material covered and to deepen my understanding of the Christian faith and its historical context. The main goal is to inform myself and keep track of the knowledge acquired during this educational experience.
-
-:::{figure} figures/VaticanMuseums_148.jpg
+<!-- :::{figure} figures/VaticanMuseums_148.jpg
 Grand Pastoral Sarcophagus" from Via Prenestina, painted and gilt, late 3rd/early 4th c. Vatican Museums, 31485 (ex 150) | [Source](https://www.kornbluthphoto.com/VaticanPastoralSarcophagus31485.html)
-:::
+::: -->
 
-## Introduction
-
-The main question of this topic will be: Why study the history of Christianity? Or as stated by Prof. Rylaarsdam, "What difference does it make to know church history?"
-
-It is quite common for seminary students to question the relevance of church history for their ministry. Some may see it as a mere academic exercise, while others may view it as a distraction from more practical concerns. However, studying church history is essential for several reasons, which will be explored in this topic.
+Why study the history of Christianity? Or as stated by Prof. Rylaarsdam, "What difference does it make to know church history?" It is quite common for seminary students to question the relevance of church history for their ministry. Some may see it as a mere academic exercise, while others may view it as a distraction from more practical concerns. However, studying church history is essential for several reasons, which will be explored in this topic.
 
 :::{figure} figures/stpeter.jpg
 St Peter Preaching in the Presence of St Mark. Fra Angelico, c. 1440-41. | [Source](https://en.wikipedia.org/wiki/Fra_Angelico#)
@@ -120,3 +94,27 @@ A framework for studying church history faithfully involves asking in each histo
 4. As a ministry **leader**, how can I equip people for mission in this context?
 
 These questions help us to approach church history with a missional and contextual perspective, allowing us to learn from the past and apply those lessons to our own lives and ministries today. And they will be part of the following discussions throughout the course.
+
+:::{admonition} 🎄 About this work
+:icon: false
+This work is a compilation of notes and reflections based on the lectures and readings from the course "Story of Christianity I" taught by Prof. Rylaarsdam at Calvin University in the Fall semester of 2025. The content is organized thematically and chronologically to provide a comprehensive overview of the early Christian church's history, challenges, and theological developments. The full content can be found on [the website](https://ericaraujo.com/storyOfChristianity/).
+:::
+
+::::{admonition} 📜 Lecture Notes
+:icon: false
+
+It was a great surprise to start this course with the question of what difference it makes if we stand, kneel, or sit to pray. The posture we assume when we pray is not a trivial matter. It reflects our understanding of who God is and who we are in relation to Him.
+
+He also presented the three postures for prayer in the ancient church (and guess what? sitting was not one of them!): standing, kneeling, and prostrating. Each posture has its own meaning and significance:
+
+- Standing is a posture of respect and attentiveness,
+- Kneeling is a posture of humility and submission, and
+- Prostrating is a posture of total surrender and worship, also connected to repentance.
+
+Prof. Rylaarsdam also explained the origins of the expression "The Lord be with you", recalling Boaz's greeting to his workers in Ruth 2:4. This greeting is not just a polite expression; it carries deep theological significance. It acknowledges God's presence and blessing in our lives, especially in communal worship settings.
+
+:::{figure} figures/woman.jpg
+:width: 300px
+Christians stood with their arms raised when praying-like this woman carved on the side of a sarcophagus in third-century Rome. | [Source](https://chandlerozconsultants.wordpress.com/category/sacraments/)
+:::
+::::
