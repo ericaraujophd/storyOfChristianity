@@ -1,6 +1,6 @@
 ---
-title: The Council of Nicaea (325 A.D.)
-subtitle: Homoousious and the Trinity
+title: The Council of Nicaea (325 A.D.) and other Trinitarian Councils
+subtitle: Who is Jesus?
 ---
 
 Until 300 A.D. the main theological debates revolved around the Canon of Scripture and the defense of the faith against heresies like Gnosticism. But that would change in the 4th century. With the conversion of Constantine and the legalization of Christianity, the church faced new challenges. Arianism emerged as a significant theological controversy, questioning the nature of Christ and his relationship to God the Father.
@@ -135,3 +135,25 @@ During the class we discussed some bad analogies that have been used to explain 
 
 **Partialism:** the Son is divine but not as much as the Father.
 :::
+
+---
+
+## The Council of Constantinople (381 A.D.)
+
+(constantinople)=
+The Council of Constantinople, held in 381 A.D., was the second ecumenical council of the Christian Church. It was convened by Emperor Theodosius I in the city of Constantinople (modern-day Istanbul, Turkey) to address ongoing theological controversies, particularly those related to Arianism and the divinity of the Holy Spirit (caused by the Macedonian heresy). The council aimed to reaffirm and expand upon the Nicene Creed established at the Council of Nicaea in 325 A.D.
+
+## The Council of Toledo (589 A.D.)
+
+The Council of Toledo, held in 589 A.D., was a significant church council that took place in the city of Toledo, located in present-day Spain. This council is particularly notable for its role in the conversion of the Visigothic from Arianism to Nicene Christianity, which had a profound impact on the religious landscape of the Iberian Peninsula.
+
+(filioque)=
+The main fact that makes this council important to understand the great schism is that it was at this council that the Filioque clause was first added to the Nicene Creed. The Filioque clause, which means "and the Son" in Latin, was added to the section of the creed that describes the procession of the Holy Spirit. The original version of the Nicene Creed stated that the Holy Spirit "proceeds from the Father," but the addition of the Filioque clause changed this to "proceeds from the Father and the Son."
+
+The addition of this clause caused the wrath of the Eastern Church, which saw it as a unilateral alteration of a creed that had been agreed upon by the entire Christian Church. The Eastern Church argued that the Holy Spirit proceeds only from the Father, as stated in the original version of the creed.
+
+Interestingly, in the celebration of the 1700th anniversary of the Council of Nicaea in 2025, Pope Leo XIV and Patriarch Bartholomew I of Constantinople jointly commemorated the council and expressed a commitment to work towards healing the divisions between the Eastern and Western Churches. This event highlighted the ongoing efforts to bridge the theological and historical gaps that have separated these two branches of Christianity for centuries.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3rxSNcFK52Y?si=XDbYq0-oUSLVt87y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

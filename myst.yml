@@ -49,7 +49,6 @@ project:
         - file: constantine/ambrose.md
         - file: constantine/augustine.md    
         - file: constantine/gospel-story.md
-        - file: who-is-jesus/constantinople.md
         - file: who-is-jesus/chalcedon.md
     - title: "Appendixes"
       children:
