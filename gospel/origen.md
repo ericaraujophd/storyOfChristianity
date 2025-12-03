@@ -3,6 +3,10 @@ title: Origen of Alexandria
 subtitle: The Scholar of Scripture
 ---
 
+:::{figure} figures/origen-teaching-the-saints.png
+"Origen teaching the saints" by Jean-Joseph Benjamin-Constant, 1875.
+:::
+
 (origen)=
 Origen of Alexandria (c. 185–251 AD) was an early Christian theologian, scholar, and prolific writer. He is considered one of the most important figures in early Christian theology and biblical studies. Origen was born in Alexandria, Egypt, a major center of learning and culture in the ancient world. He later moved to Caesarea in Palestine, where he continued his scholarly work. He was a disciple of [Clement of Alexandria](#clement_of_alexandria) and was deeply influenced by Platonic philosophy.
 
